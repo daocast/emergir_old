@@ -31,11 +31,11 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-#avatar: "/img/icone.jpg"
+avatar: "/img/icone.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: "/img/icone.jpg"
+#title-img: "/img/icone.jpg"
 
 # --- Background colour/image options --- #
 
@@ -47,7 +47,7 @@ title-img: "/img/icone.jpg"
 # footer-col: "blue"
 # footer-img: "/img/backgrd.jpg"
 # page-col: "#FF0000"
-page-img: "/img/backgrd.jpg"
+# page-img: "/img/backgrd.jpg"
 
 # --- Footer options --- #
 
@@ -107,7 +107,7 @@ url-pretty: "emergir.co"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "emergir"
+#disqus: "emergir"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
