@@ -4,7 +4,7 @@ title: Sobre
 subtitle: Quem, como e porque.
 ---
 
-<iframe src="draft7.html" width="840" height="360"></iframe>
+<iframe src="https://emergir.github.io/draft7.html" width=100% height=100% frameborder="1"></iframe>
 
 ### my history
 
