@@ -19,6 +19,9 @@ title: Emergir
 # Short description of your site
 description: Adaptação à Complexidade
 
+#image
+bigimg: /img/path.jpg
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
