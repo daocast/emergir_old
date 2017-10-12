@@ -1,6 +1,5 @@
 ---
 layout: post
-css: "/css/cursos.css"
 ---
 
 <div id="contentframe" style="position:relative; left:-15%">
