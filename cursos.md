@@ -1,5 +1,5 @@
 ---
-layout: minimal
+layout: post
 css: "/css/cursos.css"
 ---
 
