@@ -19,7 +19,9 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/_paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
+
+<br>
   
 * **Qualquer outra forma de colaboração que você possa imaginar**. Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto a:
   * Sugestão de temas;
