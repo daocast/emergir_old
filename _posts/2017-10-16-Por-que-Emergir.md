@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Por que Emergir?
-subtitle: Ou por que este site existe?
+title: "Por que Emergir?"
+subtitle: "Obser esse gif:"
 show-avatar: false
 ---
-
-Observe este gif:
 ![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
