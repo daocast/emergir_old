@@ -20,7 +20,7 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/_paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
 
 
 
