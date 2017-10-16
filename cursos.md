@@ -1,5 +1,6 @@
 ---
 layout: post
+show-avatar: false
 ---
 
 <div id="contentframe" style="position:relative; left:-15%">
