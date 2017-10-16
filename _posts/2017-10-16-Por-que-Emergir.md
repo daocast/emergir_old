@@ -6,4 +6,4 @@ show-avatar: false
 ---
 
 Por um momento, considere este gif:
-/img/Emergence.gif
+![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
