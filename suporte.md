@@ -16,14 +16,10 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 * **Absorção** e **Compartilhamento** são as maneiras mais fáceis de colaboração. Aprenda, discuta e compartilhe. Ideias paradas são tão úteis quanto carros sem pneus.
 
 * **Doações** são também extremamente bem-vindas, especialmente por conta do caráter **não-lucrativo** do portal. Sugere-se os seguintes canais:
-
-
-| Bitcoin | Paypal | Ether |
+  * | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/_paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
-
-
-
+  
 * **Qualquer outra forma de colaboração que você possa imaginar**. Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto a:
   * Sugestão de temas;
   * Coluna no portal;
