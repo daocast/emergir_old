@@ -17,17 +17,10 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 
 * **Doações** são também extremamente bem-vindas, especialmente por conta do caráter **não-lucrativo** do portal. Sugere-se os seguintes canais:
 
-<center>
+
 | Bitcoin | Ether | Paypal |
 | :------ |:--- | :--- |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | Paypal |
-</center>
-<center>
-
-|     Cryptomoedas    |  Paypal |
-|--------------------:|--------:|
-| Bitcoin |  Ether | [![Paypal](/img/paypal.png)]( |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) |    ![Ether](/img/emergir_ether_small.png)   |  <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="BCJRENEK4CM36">
 <table>
@@ -40,10 +33,8 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 <input type="hidden" name="currency_code" value="BRL">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-  |
+</form> |
 
-</center>
 
 
 * **Qualquer outra forma de colaboração que você possa imaginar**. Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto a:
