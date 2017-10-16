@@ -6,27 +6,35 @@ show-avatar: false
 ---
 
 
-<iframe src="https://emergir.github.io/draft7.html" style="position:relative; width="840" height="360" frameborder="0"></iframe>
+<iframe src="http://emergir.github.io/draft7.html" style="position:relative; width="840" height="360" frameborder="0"></iframe>
 
 
-Emergir é um **processo** independente com um objetivo claro: [explorar e disseminar os fenômenos que caracterizam o paradigma filosófico-científico apresentado pela Complexidade](https://emergir.github.io/2017-10-16-Por-que-Emergir/). Com isso, espera-se catalisar uma nova maneira de se pensar sobre o mundo. Principalmente, uma interpretação que reconheça a importância dos processos de adaptação e [emergência](https://pt.wikipedia.org/wiki/Emerg%C3%AAncia) para a resolução de problemas no século XXI.
+Emergir é uma iniciativa independente com um objetivo claro: [explorar e disseminar os fenômenos que caracterizam o paradigma filosófico-científico apresentado pela Complexidade](https://emergir.github.io/2017-10-16-Por-que-Emergir/). Com isso, espera-se catalisar uma nova maneira de se pensar sobre o mundo. Uma interpretação que reconheça a importância dos processos de adaptação e [emergência](https://pt.wikipedia.org/wiki/Emerg%C3%AAncia) para a resolução de problemas no século XXI.
 
-São notáveis os desafios para o Emergir. Porém, é possível encontrar energia nas conexões com quem reconhece a importância do momento em que vivemos - e a urgência de uma mudança de paradigma. Assim, à semelhança de processos sinergéticos emergentes em sistemas complexos, este *processo de emergência* pode alcançar **resultados muito maiores do que a somatória das partes envolvidas**. Em outras palavras, um número pequeno de pessoas pode definir as condições iniciais para trocas e aprendizado, mas é impossível prever o impacto que uma rede pode gerar ao disseminar informação. Logo, o Emergir se compromete com a produção de **conteúdo livre**, sempre licenciado através do [Creative Commons](https://br.creativecommons.org/). E incentivamos a reutilização e remixagem do conteúdo aqui produzido. Para quaisquer fins, inclusive **comerciais**.
+São notáveis os desafios para o Emergir. Porém, é possível encontrar [resiliência](https://pt.wikipedia.org/wiki/Resili%C3%AAncia) nas conexões com quem reconhece a importância do momento em que vivemos - e a urgência de uma mudança de paradigma. Assim, à semelhança de processos emergentes em sistemas complexos, acreditamos na possibilidade de alcançar resultados que são **> ∑(partes)** - *maiores do que a somatória das partes envolvidas*.
 
-E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre **abertas** aos leitores do portal:
+Para tanto, o Emergir se compromete com a produção de **conteúdo livre** - licenciado através das licenças [Creative Commons](https://br.creativecommons.org/) - e incentiva a reutilização e remixagem desse material. Para quaisquer fins, inclusive comerciais. Afinal, [Everything is a Remix](http://www.everythingisaremix.info/)!
 
-* **Absorção** e **Compartilhamento** são as maneiras mais fáceis de colaboração. Os canais do Emergir nas redes sociais já estão "up and running", então vai lá, se inscreve e passa a bola pra frente.
+E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal:
 
-* Qualquer forma de colaboração que você possa imaginar. Diga um Oi e mande sua ideia. **emergir.co@gmail.com**
-  * Sugestão de temas
-  * Coluna no portal
-  * Participação no podcast
-  * Ajuda com produção e edição
+* **Absorção** e **Compartilhamento** são as maneiras mais fáceis de colaboração. Aprenda, discuta e compartilhe. Ideias paradas são tão úteis quanto carros sem pneus.
 
-* Dado o caráter **não-lucrativo** do portal, contribuições financeiras são extremamente bem-vindas. De preferencia, através dos seguintes canais:
+* **Doações** são também extremamente bem-vindas, especialmente por conta do caráter **não-lucrativo** do portal. Sugere-se os seguintes canaisÇ
 
 | Bitcoin | Ether | Paypal |
 | :------ |:--- | :--- |
-| ![Bitcoin](/img/emergir_bitcoin.png) | ![Ether](/img/emergir_ether.png) | Paypal |
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | Paypal |
+
+* **Qualquer outra forma de colaboração que você possa imaginar**. Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. o Emergir está aberto a:
+  * Sugestão de temas;
+  * Coluna no portal;
+  * Participação no podcast;
+  * Ajuda com produção e edição;
+  * Eventos e encontros presenciais;
+  * Outras formas de contribuição financeira.
+  
+Com tudo isso, imagina-se ser possível fazer emergir uma nova forma de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmônia com nós mesmos, os outros, e o ambiente.
+
+Avante, em rede!
 
 
