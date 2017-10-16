@@ -17,9 +17,13 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 
 * **Doações** são também extremamente bem-vindas, especialmente por conta do caráter **não-lucrativo** do portal. Sugere-se os seguintes canais:
 
+<center>
+
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
+
+</center>
 
 <br>
   
