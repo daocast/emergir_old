@@ -2,6 +2,7 @@
 layout: post
 title: > ∑(partes)
 subtitle: Maior do que a somatória das partes
+show-avatar: false
 ---
 
 
