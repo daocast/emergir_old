@@ -23,7 +23,7 @@ description: Adaptação à Complexidade
 
 # List of links in the navigation bar
 navbar-links:
-  Pq Emergir?: "_posts/2017-10-16-Por-que-Emergir"
+  Pq Emergir?: "2017-10-16-Por-que-Emergir"
   Projetos:
     - Cursos: "cursos"
   Suporte/Contato: "suporte"
