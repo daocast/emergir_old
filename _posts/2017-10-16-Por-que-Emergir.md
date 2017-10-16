@@ -5,5 +5,5 @@ subtitle: Ou por que este site existe?
 show-avatar: false
 ---
 
-Aprecie este gif:
+Por um momento, considere este gif:
 /img/Emergence.gif
