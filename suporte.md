@@ -23,8 +23,8 @@ Contribuições financerias também são extremamente bem-vindas, especialmente 
 
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) | <br>
-
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) | 
+<br>
 #### Qualquer outra forma de colaboração
 
 Pensou em alguma outra maneira de se envolver? Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
