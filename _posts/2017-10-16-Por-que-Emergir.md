@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Por que Emergir?"
-subtitle: "A Necessidade de Novas Maneiras de Pensar e Organizar"
+subtitle: "A Necessidade de novas maneiras de Pensar e Organizar"
 show-avatar: false
 bigimg:
  - "/img/background_pics/emergencia.jpeg"
