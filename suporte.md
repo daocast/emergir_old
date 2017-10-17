@@ -15,20 +15,19 @@ E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as po
 
 ---
 
-### Absorção e Compartilhamento 
+#### Absorção e Compartilhamento 
 
 Estas são as maneiras mais fáceis de colaboração. Aprenda, discuta e compartilhe as informações relevantes que você encontrar por aqui. Ideias paradas são tão úteis quanto carros sem pneus.
 
+#### Doações
 
-### Doações
-
-Contribuições também são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. Estes são os canais preferidos (mas não exclusivos).
+Contribuições financerias também são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. Estes são os canais preferidos (mas não são os únicos).
 
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) |
 
-### Qualquer outra forma de colaboração
+#### Qualquer outra forma de colaboração
 
 Pensou em alguma outra maneira de se envolver? Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
   * Sugestão de temas;
