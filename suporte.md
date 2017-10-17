@@ -24,18 +24,21 @@ Contribuições financerias também são extremamente bem-vindas, especialmente 
 | Bitcoin | Paypal | Ether |
 | :------ |:--- | :--- |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) | 
+
 <br>
+
 #### Qualquer outra forma de colaboração
 
 Pensou em alguma outra maneira de se envolver? Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
   * Sugestão de temas;
   * Coluna no portal;
   * Participação no podcast;
+  * Desenvolvimento do site;
   * Ajuda com produção e edição;
   * Eventos e encontros presenciais;
   * Outras formas de contribuição financeira.
   
-Com tudo isso, imagina-se ser possível fazer emergir uma nova forma de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmônica com nós mesmos, os outros, e o ambiente.
+É assim que esperamos fazer emergir uma nova maneira de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente.
 
 Avante, em rede!
 
