@@ -3,6 +3,8 @@ layout: page
 title: "> ∑(partes)"
 subtitle: "Maior do que a somatória das partes"
 show-avatar: false
+bigimg:
+ - "/img/background_pics/sinergia.jpg"
 ---
 
 Emergir é uma iniciativa independente com um objetivo claro: [explorar e disseminar os fenômenos que caracterizam o paradigma filosófico-científico da Complexidade](https://emergir.github.io/2017-10-16-Por-que-Emergir/). Com isso, espera-se catalisar uma nova maneira de se pensar sobre o mundo. Uma interpretação que reconheça a importância dos processos sistêmicos de adaptação e emergência para a resolução de problemas no século XXI.
