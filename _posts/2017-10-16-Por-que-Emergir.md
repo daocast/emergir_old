@@ -12,7 +12,7 @@ Portanto é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhe
 Um interpretação holistica do porquê desta inércia mostra que o exercício de apontar dedos pouco ajuda na construção de alternativas viáveis. Assim, de maneira a pensar sobre esse momento-chave, e fazer emergir soluções adapatáveias às mudanças que ainda estão por vir, é necessário abstrair para além do futebolismo de "esquerda e direita". Afinal, o século XXI exige síntese e integração - tanto de pensamento como de ação.
 Contuto, antes de discutir soluções, é necessário enteder este momento-chave. O que também pode ser interpretado como uma transição.
 
-###Transição
+#### Transição
 
 Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais evidente que estamos vivendo um processo de transição de grandes proporções. E apesar do "rosto" e nome desta transição dependerem de quem a interpreta, sua existência é incontestável. Por exemplo, interpretações esotéricas podem se referir a esta transição como a chegada da Era de Aquário ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias. Por outro lado, interpretações seculares discutem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno - que é caracterizada pela influência humana nos processos geológicos terrestres. "Antropo" tem origem na palavra grega ἄνθρωπος (anthrōpos) que se traduz como "homem". 
 
