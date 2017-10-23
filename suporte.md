@@ -24,7 +24,7 @@ Estas são as maneiras mais fáceis de colaboração. Aprenda, discuta e compart
 Contribuições financerias também são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. Estes são os canais preferidos (mas não são os únicos).
 
 | Bitcoin | Paypal | Ether |
-| :------ |:--- | :--- |
+| :------: | :---: | :---: |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) | 
 
 <br>
