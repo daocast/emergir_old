@@ -14,10 +14,25 @@ Contuto, antes de discutir soluções, é necessário enteder este momento-chave
 
 ### Transição
 
-Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais evidente que estamos vivendo um processo de transição de grandes proporções. E apesar do "rosto" e nome desta transição dependerem de quem a interpreta, sua existência é incontestável. Por exemplo, interpretações esotéricas podem se referir a esta transição como a chegada da Era de Aquário ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias. Por outro lado, interpretações seculares discutem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno - que é caracterizada pela influência humana nos processos geológicos terrestres. "Antropo" tem origem na palavra grega ἄνθρωπος (anthrōpos) que se traduz como "homem". 
+Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais evidente que estamos vivendo um processo de transição de grandes proporções. Contudo, o "rosto" e nome desta transição dependerem de quem a interpreta. Por exemplo, interpretações esotéricas podem se referir a esta transição como a chegada da Era de Aquário ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias. Por outro lado, interpretações seculares discutem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno.
 
->> "O antropoceno é uma nova era em que uma espécie domina os processos do planeta, causando potencialmente outra extinção em massa, monopolizando a maior parte dos fluxos de energia e material no planeta, tendo mudado todos os ciclos e dinâmicas naturais através de nossas intervenções nos ciclos biogeoquímicos." Manfred Laubichler, Santa Fe Institute.
+>> "The Anthropocene is a new era where one species dominates the processes of the planet, causing potentially another mass extinction, monopolizing most of the energy and material flows in the planet, having changed all the natural cycles and dynamics through our interventions in those biogeochemical cycles." *Manfred Laubichler, Santa Fe Institute*.
 
-Agora todos assistem ao desenrolar das decisões globais de alta-escala relacionadas ao futuro da economia, do ambiente, da paz e da condição humana. Porém, ao mesmo tempo, com "correria do dia-a-dia", nos acostumamos com a possibilidade de uma guerra nuclear que é tratada com naturalidade nos noticiários. E aprendemos a calar nossas emoções quando assistimos crianças morrendo à beira da praia no que é a maior crise de refugiados da história da humanidade. Nesse sentido, **este momento** do século XXI representa um grande evento paradoxical na história da humanidade. 
+"Antropo" tem origem na palavra grega ἄνθρωπος (anthrōpos) que se traduz como "homem". Assim, o consenso sobre a entrada desta nova época baseia-se na crescente influência humana nos processos geológicos terrestres, bem como nas consequências catastróficas de tal fenômeno. Assim, é difícil aportar com certeza quando esta nova época se inicia. Enquanto alguns pesquisadores apontam para 1945 - devido os eventos atômicos que caracterizaram o ano - muitos ainda afirma que este é um processo mais longo, iniciado com a Revolução Industrial no século XIX. Já as interpretações esotéricas sobre esta transição tendem a ver o final do século XX - mais especificamente a década de 1970 - como o período inicial desta transição.
+
+#TIMELINE
+
+### Ponto de Inflexão
+
+Independente de interpretações subjetivas e discussões sobre o início dessa transição, o fato é que ela é real, e que **nós estamos em um ponto decisivo deste processo**. 
+
+>> "We are currently at a major historical inflection point. Right now, several major s-curves are linking up at the same time and reinforcing each-other." *Jordan Greenhall, Deep Code*.
+
+Enquanto assistimos ao desenrolar das decisões globais de alta-escala relacionadas ao futuro da economia, do ambiente e da paz, nos acostumamos com a possibilidade de uma guerra nuclear que é tratada com naturalidade nos noticiários. E dia após dia aprendemos a calar nossas emoções quando assistimos crianças morrendo à beira da praia no que é a maior crise de refugiados da história da humanidade. Além de fingirmos um cegueira coletiva em relação às crescentes temperaturas do planeta - o que apenas agravará as outras ameças existênciais. Tais posturas individuais e coletivas montram-se completamente inadequadas, uma vez que a situação é pior do que gostamos de imaginar. 
+
+>> "There is now ample evidence that human activities have pushed us beyond as many as four of these critical operating boundaries for a globalized economic system." *Joe Brewer, Cultural Evolution Society*.
+
+
+
 
 ![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
