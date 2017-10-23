@@ -8,11 +8,11 @@ bigimg:
 ---
 
 Os eventos que marcam o século XXI expõem um padrão característico deste período. Mudanças cada vez mais rápidas e com um crescente poder de transformação social, tecnológica e ambiental. A virada do século tornou evidente os benefícios e malefícios de um mundo totalmente conectado. Por um lado, avanços tecnológicos como a internet e os smartphones aproximaram pessoas, nações, economias e culturas. Mas, por outro lado, eles também facilitaram processos globais que ameaçam a vida harmoniosa na Terra. Crises econômicas, terrorismo organizado e o estabelecimento to "mundo pós-fato" podem ser apontados como consequências reais da hyperconectividade que nos rodeia. E, por sua vez, tais ameaças fomentaram a ascenção global de líderes e ideologias político-econômicas que, ao tentar remediar problemas de escala global com soluções míopes, se auto-estabelecem como alvos de processos macro de retro-alimentação. Por exemplo, a recente saída dos EUA do Acordo climático de Paris, e os subsequentes desastres naturais que assolaram o país.
-Portanto é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas. 
+Portanto é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas a nossa própria existência. 
 Um interpretação holistica do porquê desta inércia mostra que o exercício de apontar dedos pouco ajuda na construção de alternativas viáveis. Assim, de maneira a pensar sobre esse momento-chave, e fazer emergir soluções adapatáveias às mudanças que ainda estão por vir, é necessário abstrair para além do futebolismo de "esquerda e direita". Afinal, o século XXI exige síntese e integração - tanto de pensamento como de ação.
 Contuto, antes de discutir soluções, é necessário enteder este momento-chave. O que também pode ser interpretado como uma transição.
 
-### Transição
+## Transição
 
 Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais evidente que estamos vivendo um processo de transição de grandes proporções. Contudo, o "rosto" e nome desta transição dependerem de quem a interpreta. Por exemplo, interpretações esotéricas podem se referir a esta transição como a chegada da Era de Aquário ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias. Por outro lado, interpretações seculares discutem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno.
 
@@ -22,7 +22,7 @@ Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez m
 
 #TIMELINE
 
-### Ponto de Inflexão
+## Ponto de Inflexão
 
 Independente de interpretações subjetivas e discussões sobre o início dessa transição, o fato é que ela é real, e que **nós estamos em um ponto decisivo deste processo**. 
 
@@ -32,7 +32,33 @@ Enquanto assistimos ao desenrolar das decisões globais de alta-escala relaciona
 
 >> "There is now ample evidence that human activities have pushed us beyond as many as four of these critical operating boundaries for a globalized economic system." *Joe Brewer, Cultural Evolution Society*.
 
+Ao longo de bilhões de anos, a Terra tem mantido ciclos dinâmicos de auto-regulação altamente complexos que, dentre outras coisas, permitiram o surgimento e a evolução da vida até as formas em que ela se manifesta hoje em dia. Porém, existem condições limites para o funcionamento efetivo destes ciclos e atualmente, dada a interferência humana em tais processos, essas condições não estão sendo respeitadas. O Stockholm Resilience Institute é um centro internacional de pesquisa focado em desenvolvimento social através de uma reconexão com a biosfera. Uma de suas iniciativas define e supervisiona os Nove Limites Planetários para o equilíbrio do sistema sócio-ecológico que rege a vida na Terra. Em seu relatório de 2015 o Instituto divulgou resultados alarmante, que denunciam como já ultrapassamos quatro dos nove limites. E o mais impressionante é que os limites relacionados às mudanças climática não foram ultrapassados. Ou seja, apesar da insuficiente preocupação com as mudanças de clima no planeta, esse ainda é um problema pequeno quando comparado a outros fenômenos que regulam os ciclos biogeoquímicos do planeta.
 
+>> "Given the novelty of the waves we are dealing with, it is very likely that our current historical moment is a once in a thousand-year or a once in ten-thousand-year event. A “mode of civilization” level event (e.g., the rise of Western Civilization from the dark ages) or a “mode of human organization” event (e.g., the rise of “civilization” itself)." *Jordan Greenhall, Deep Code*.
 
+Em resumo, estamos passando por uma transição sem precedentes. E neste processo, o início do século XXI representa um momento de inflexão decisivo. Por um lado, a humanidade enfrenta mazelas ambientais e sociais que são ameaças reais à sua continuidade no planeta Terra. Por outro lado, muitos argumentam que existem soluções para estes problemas e que uma visão utópica de equilíbrio sócio-ambiental não está distante. E apesar dos pontos levantados neste artigo até o momento serem alarmantes, o seu objetivo maior é demonstrar que ambas as possibilidades descritas acima são possíveis. Porém, de maneira a seguir por um caminho que favoreca a vida humana na Terra, é preciso escolher conscientemente. 
+
+## Novos olhares para Enxergar
+
+Dado que os desafios apresentados por este ponto de inflexão são de uma natureza completamente única, faz-se necessária a adoção de um novo paradigma conceitual para sua compreensão. E, mais importante para a prototipagem de soluções. Infelizmente, pouco tem sido feito nesta direção pelas instituições padrões responsáveis por ensino e planejamento estratégico. Pelo contrário, a grande maioria destas instituições está presa em um paradoxo de inadequação. Afinal, apesar de elas serem a esperança por soluções para os problemas complexos do século XXI, suas estruturas hierárquicas-lineares tendem a criar burocracias que inibem a inovação e a ação.
+
+>> "Where humanity is going, there are no roadmaps. The terrain is unlike anything we’ve seen before. The changes sweeping the Earth right now are literally planetary in scale and so filled with complexity that few among us even have a semblance of knowing what is actually going on." *Joe Brewer, Cultural Evolution Society*.
+
+Obviamente, nenhuma outra instituição encontrou as saídas escaláveis - do contrário os riscos não existiram. Contudo, as possibilidade mais promissoras têm sido esboçadas por aquele que abraçam a complexidade, ao invés de tentar ignorá-la.
+
+> ### Mas afinal, o que é a Complexidade?
+É extremamente fácil se perder com o uso da expressão "complexidade" e seus derivados. Quem vos escreve foi culpado desta falha inúmera vezes. Assim, é importante obter um entendimento claro do que este conceito significa, de forma a transcender o seu uso coloquial e utilizá-lo de maneira a auxiliar o raciocínio (ao invés de inibí-lo). Para além de caracterizar a dificuldade de uma situação, a complexidade refere-se a uma abordagem interdisciplinar de investigação de fenômenos, distinta das abordagens tradicionais postas pela ciência newtoniana. Devido ao uso de novas técnicas e teorias em seu processo de indagação, a complexidade é muitas vezes classificada como um novo paradigma, "que visa associar sem fundir, distinguindo sem separar as diversas disciplinas e formas de ciência." A palavra "complexo" tem origem no Lation e combina as raízes "com" (que significa "junto") e "plexo" (que significa "tecido" ou "entrelaçado"). Logo, fica claro que algumas das características principais da complexidade são a inderconectividade e a interdependência. Este paradigma é utilizado para caracterizar entidades - sistemas - que têm muitas partes interagindo umas com as outras de múltiplas formas distintas, culminando em uma ordem superior de **emergência** que é maior do que a soma de suas partes constituintes. Assim, sistemas complexos são abstrações que podem ser utilizadas para o estudo e modelagem de fenômenos emergentes em diferentes áreas do conhecimento - da biologia à antropologia. E a complexidade serve como estrutura que conecta estes diferentes campos através de investigações multi-disciplinares.
+
+Ao reconhecer que os grandes problemas do século XXI são inderdepentes e têm dinâmicas de retro-alimentação que os conecta, novas olhares interpretativos começam a emergir - e novas maneiras de lidar com esses problemas. Tal processo é extremamente importante. Afinal, são evidentes as limitações dos paradigmas filosófico-científicos reducionistas, que tendem a superanalisar as partes elementares que compõem um sistema sem dar devida atenção ao seu ambiente e às conexões entre seus componentes. Assim, dados os altos níveis de conectividade dos atuais sistemas ecológicos, econômicos, políticos e sociais, a adoção da complexidade como paradigma padrão mostra-se como uma alternativa viável para guiar o processo de busca por soluções efetivas, bem como a transformação sistêmica e adaptativa que é necessária para a existência harmoniosa da espécie humana no planeta Terra - e além.
+
+>>“No problem can be solved from the same level of consciousness that created it”  *Albert Einstein*.
+
+A adoção de um novo paradigma conceitual é um processo que acontece em diferentes níveis. Dado que um paradigma representa uma nova maneira de se olhar para o mundo (novos óculos pelos quais lemos a vida), tanto cognição como consciência devem ser exercitados para tornar este novo olhar natural à experiência subjetiva. No que diz respeito ao paradigma da complexidade, o foco deste exercício está no fenômeno da **emergência**. Como descrito acima, a emergência é o processo pelo qual sistemas complexos formam padrões macro de organização (através de interações de escala micro) que são maiores do que a soma dos comportamentos individuais dos elementos do sistema. Em um gif...
 
 ![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
+
+Neste excelente exemplo do que é a emergência (obrigado [Nicky](http://blog.ncase.me/)), observa-se como um novo padrão de organização macro (movimentação da esquerda para a direita) surge do simples comportamento das partes individuais (movimentação vertical). E, mais importante, como este novo padrão é fundamentalmente diferente do padrão de organização micro.
+
+Ao abstrair tal ideia e tentar entender como ela se aplica aos sistemas complexos que estão ao nosso redor (desde a economia até os sistemas de organização social), podemos começar a encontrar novos padrões organizacionais que pertencem a um outro paradigma de pensamento e de possibilidades. Ao tentar entende o todo como um fenômeno gerado pelo comportamento em conjunto das partes, começamos a perceber a importância sistêmicas das conexões entre essas partes e do ambiente no qual elas estão inseridas. Em outras palavras, começamos a investigar tais sistemas através do paradigma da complexidade.
+
+## Como Emergir?
