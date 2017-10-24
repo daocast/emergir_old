@@ -1,7 +1,6 @@
 ---
 layout: page
-title: "> ∑(partes)"
-subtitle: "Maior do que a somatória das partes"
+title: "Sobre o Emergir"
 show-avatar: false
 bigimg:
  - "/img/background_pics/sinergia.jpg"
@@ -81,5 +80,55 @@ Pensou em alguma outra maneira de se envolver? Quer bater um papo? Dê um alô: 
 É assim que esperamos fazer emergir uma nova maneira de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leira [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 
 Avante, em rede!
+
+---
+
+</div>
+
+<div id="contactme-section">
+<h1 id="contact">Contact</h1>
+
+<!--
+<div class="alert alert-danger" role="alert">
+I will be away until September 9, with very limited time to work. My responses will be slow during this period.
+</div>
+-->
+
+
+
+<p>You can <a href="mailto:dean@attalitech.com?subject=Hello from deanattali.com">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<p>I do a lot of consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects or need any paid help.</p>
+<p>If you'd like to set up a meeting with me, <a href="https://calendly.com/attalitech/meeting">click here to schedule a meeting</a> based on your availability.</p>
+
+<form action="https://formspree.io/dean@attalitech.com" method="POST" class="form" id="contact-form">
+  <p>You can also send me a quick message using the form below:</p>
+  <div class="row">
+    <div class="col-xs-6">
+      <input type="email" name="_replyto" class="form-control input-lg" placeholder="Email" title="Email">
+    </div>
+    <div class="col-xs-6">
+      <input type="text" name="name" class="form-control input-lg" placeholder="Name" title="Name">
+    </div>
+  </div>
+  <input type="hidden" name="_subject" value="New submission from deanattali.com">
+  <textarea type="text" name="content" class="form-control input-lg" placeholder="Message" title="Message" required="required" rows="3"></textarea>
+  <input type="text" name="_gotcha" style="display:none">
+  <input type="hidden" name="_next" value="./aboutme?message=Your message was sent successfully, thanks!" />
+  <button type="submit" class="btn btn-lg btn-primary">Submit</button>
+</form>
+
+<p>If you'd like to get in touch and are very old-school, you can send a letter to: 102 Beverley Glen Blvd, Thornhill, ON L4J7V2, Canada.</p>
+
+</div>
+
+<br/>
+
+<div id="feed-meeee">
+  <br/>
+  <h1>Help feed me & my coding obsession</h1>
+  <p>If you want to show your support for any of the <a href="/projects">open source projects</a> I devote my time to, here's a PayPal Donate button that you may click :)</p>
+  
+  <p>My open source work started as a fun hobby, but as my tools and blog got more popular, it has turned into a full-time job commitment. Except with 0 pay and no employer benefits :) I would really appreciate if you support my hard work, so that I'll be able to shop at fancy Whole Foods once in a while!</p>
+</div>
 
 
