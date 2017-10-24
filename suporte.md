@@ -11,7 +11,7 @@ Emergir é uma iniciativa independente com um objetivo claro: **[disseminar os f
 > #### Mas afinal, o que é a Complexidade?
 É extremamente fácil se perder com o uso da expressão "complexidade" e seus derivados. Quem vos escreve foi culpado desta falha inúmera vezes. Assim, é importante obter um entendimento claro do que este conceito significa, de forma a transcender o seu uso coloquial e utilizá-lo de maneira a auxiliar o raciocínio (ao invés de inibí-lo). Para além de caracterizar a dificuldade de uma situação, a complexidade refere-se a uma abordagem interdisciplinar de investigação de fenômenos, distinta das abordagens tradicionais postas pela ciência newtoniana. Devido ao uso de novas técnicas e teorias em seu processo de indagação, a complexidade é muitas vezes classificada como um novo paradigma, "que visa associar sem fundir, distinguindo sem separar as diversas disciplinas e formas de ciência." A palavra "complexo" tem origem no Lation e combina as raízes "com" (que significa "junto") e "plexo" (que significa "tecido" ou "entrelaçado"). Logo, fica claro que algumas das características principais da complexidade são a inderconectividade e a interdependência. Este paradigma é utilizado para caracterizar entidades - sistemas - que têm muitas partes interagindo umas com as outras de múltiplas formas distintas, culminando em uma ordem superior de **emergência** que é maior do que a soma de suas partes constituintes. Assim, sistemas complexos são abstrações que podem ser utilizadas para o estudo e modelagem de fenômenos emergentes em diferentes áreas do conhecimento - da biologia à antropologia. E a complexidade serve como estrutura que conecta estes diferentes campos através de investigações multi-disciplinares.
 
-São notáveis os desafios para alcançar o objetivo descrito acima. Porém, é possível encontrar resiliência nas conexões com quem reconhece a importância do momento em que vivemos - e a urgência de uma mudança de paradigma. Assim, à semelhança de processos emergentes em sistemas complexos, acreditamos na possibilidade de alcançar resultados que são > ∑(partes) - *maiores do que a somatória das partes envolvidas* - seja eles quais forem.
+São notáveis os desafios para alcançar o objetivo descrito acima. Porém, é possível encontrar resiliência nas conexões com quem reconhece a importância do momento em que vivemos - e a urgência de uma mudança de paradigma. Assim, à semelhança de processos emergentes em sistemas complexos, acreditamos na possibilidade de alcançar resultados que são > ∑(partes) - *maiores do que a somatória das partes envolvidas*.
 
 Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre livre, licenciado através das licenças [Creative Commons](https://br.creativecommons.org/).
 
@@ -33,7 +33,9 @@ O estudo de fenômenos de natureza complexa exige uma "caixa de ferramentas" dif
 
 Atualmente, o movimento de decentralização é um dos melhores exemplos de abordagem que - deliberadamente ou não - utiliza a complexidade para a resolução de problemas. Ao "abraçar a hyperconectividade" e criar soluções que facilitam uma diversidade de trocas peer-to-peer (p2p), os sistemas decentralizados emergem como alternativas cada vez mais atraentes, principalmente quando contrastados com os sistemas lineares extremamente burocráticos que herdamos do século passado. Assim, o Emergir se propõe a explorar e explicar as tecnologias e aplicações mais relevantes pro trás do movimento de decentralização. Tais incluem projetos em **blockchain**, cripto-moedas (como bitcoin e ether), e outros protocolos p2p.
 
-#### Formatos
+---
+
+#### Formato
 
 Atualmente, grande parte do pensamento e experimentação complexa estão sendo feitos em Inglês, o que representa uma barreira natural para a sua disseminação. E de maneira a superar esta barreira para além de traduções textuais, o Emergir faz uso dos seguintes formatos:
 
