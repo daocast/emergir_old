@@ -65,7 +65,7 @@ Contribuições financerias também são extremamente bem-vindas, especialmente 
 
 ### Qualquer outra forma de colaboração
 
-Pensou em alguma outra maneira de se envolver? Dê um alô e compartilhe sua ideia: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
+Pensou em alguma outra maneira de se envolver? Quer apenas bater um papo? Dê um alô: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
   * Sugestão de temas;
   * Coluna no portal;
   * Participação no podcast;
