@@ -51,18 +51,13 @@ O portal também serve como vitrine para projetos que sejam relevantes à explor
 
 ---
 
-<form method="POST" action="http://formspree.io/emergir.co@gmail.com">
-  <input name="email" placeholder="Seu email" type="email">
-  <textarea name="message" placeholder="Sua mensagem message"></textarea>
-  <button type="submit">Enviar</button>
-</form>
-
-E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal:
-
-### Absorção e Compartilhamento 
-
-Estas são as maneiras mais fáceis de colaboração. Aprenda, discuta e compartilhe as informações relevantes que você encontrar por aqui. Ideias paradas são tão úteis quanto carros sem pneus.
-
+E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal. Pensou em alguma maneira de se envolver? Quer bater um papo? Dê um <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">alô</a> por aqui e vamos conversar. O Emergir está aberto (mas não limitado) a:
+  * Sugestão de temas;
+  * Coluna no portal;
+  * Participação no podcast;
+  * Eventos e encontros presenciais;
+  * Outras formas de contribuição financeira.
+  
 ### Doações
 
 Contribuições financerias também são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. Estes são os canais preferidos (mas não são os únicos).
@@ -70,18 +65,6 @@ Contribuições financerias também são extremamente bem-vindas, especialmente 
 | Bitcoin | Paypal | Ether |
 | :------: | :---: | :---: |
 | ![Bitcoin](/img/emergir_bitcoin_small.png) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | ![Ether](/img/emergir_ether_small.png) | 
-
-### Qualquer outra forma de colaboração
-
-Pensou em alguma outra maneira de se envolver? Quer bater um papo? Dê um <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">alô</a>. O Emergir está aberto (mas não limitado) a:
-  * Bate papo
-  * Sugestão de temas;
-  * Coluna no portal;
-  * Participação no podcast;
-  * Desenvolvimento do site;
-  * Ajuda com produção e edição;
-  * Eventos e encontros presenciais;
-  * Outras formas de contribuição financeira.
   
 É assim que esperamos fazer emergir uma nova maneira de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leira [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 
