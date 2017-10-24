@@ -74,7 +74,7 @@ Pensou em alguma outra maneira de se envolver? Dê um alô e compartilhe sua ide
   * Eventos e encontros presenciais;
   * Outras formas de contribuição financeira.
   
-É assim que esperamos fazer emergir uma nova maneira de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente.
+É assim que esperamos fazer emergir uma nova maneira de se pensar. Uma que esteja adaptada à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leira [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 
 Avante, em rede!
 
