@@ -83,20 +83,11 @@ Avante, em rede!
 
 ---
 
-</div>
 
 <div id="contactme-section">
-<h1 id="contact">Contact</h1>
+<h1 id="contact">Entre em contato</h1>
 
-<!--
-<div class="alert alert-danger" role="alert">
-I will be away until September 9, with very limited time to work. My responses will be slow during this period.
-</div>
--->
-
-
-
-<p>You can <a href="mailto:dean@attalitech.com?subject=Hello from deanattali.com">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
+<p><a href="mailto:dean@attalitech.com?subject=Hello from deanattali.com">email me</a> or find me <a href="https://twitter.com/daattali">on Twitter</a> if you want to get in touch. As I said, I love meeting new people so don't hesitate to send a message!</p>
 <p>I do a lot of consulting work in R and Shiny, so feel free to get in touch if you want to discuss potential projects or need any paid help.</p>
 <p>If you'd like to set up a meeting with me, <a href="https://calendly.com/attalitech/meeting">click here to schedule a meeting</a> based on your availability.</p>
 
@@ -124,11 +115,6 @@ I will be away until September 9, with very limited time to work. My responses w
 <br/>
 
 <div id="feed-meeee">
-  <br/>
-  <h1>Help feed me & my coding obsession</h1>
-  <p>If you want to show your support for any of the <a href="/projects">open source projects</a> I devote my time to, here's a PayPal Donate button that you may click :)</p>
-  
-  <p>My open source work started as a fun hobby, but as my tools and blog got more popular, it has turned into a full-time job commitment. Except with 0 pay and no employer benefits :) I would really appreciate if you support my hard work, so that I'll be able to shop at fancy Whole Foods once in a while!</p>
-</div>
+<br/>
 
 
