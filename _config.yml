@@ -23,10 +23,9 @@ description: Adaptação à Complexidade
 
 # List of links in the navigation bar
 navbar-links:
+  Sobre/Contato: "suporte"
+  Educacional: "cursos"
   Pq Emergir?: "2017-10-16-Por-que-Emergir"
-  Projetos:
-    - Cursos: "cursos"
-  Suporte/Contato: "suporte"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
