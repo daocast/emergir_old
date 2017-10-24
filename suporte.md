@@ -14,7 +14,7 @@ Emergir é uma iniciativa independente com um objetivo claro: **[disseminar os f
 
 São notáveis os desafios para alcançar este objetivo. Porém, é possível encontrar resiliência nas conexões com quem reconhece a importância do momento em que vivemos - e a urgência de uma mudança de paradigma. Assim, à semelhança de processos emergentes em sistemas complexos, acreditamos na possibilidade de alcançar resultados que são > ∑(partes) - *maiores do que a somatória das partes envolvidas* - seja eles quais forem.
 
-Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre livre, licenciado através das licenças [Creative Commons](https://br.creativecommons.org/.
+Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre livre, licenciado através das licenças [Creative Commons](https://br.creativecommons.org/).
 
 ### Temática
 
