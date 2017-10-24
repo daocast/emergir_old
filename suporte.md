@@ -16,6 +16,8 @@ São notáveis os desafios para alcançar o objetivo descrito acima. Porém, é 
 
 Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre livre, licenciado através das licenças [Creative Commons](https://br.creativecommons.org/).
 
+---
+
 ### Temática
 
 O conteúdo produzido pelo portal cobre uma ampla gama de tópicos. Algo natural, dado o aspecto interdisciplinar que caracteriza a complexidade. Porém, em ordem decrescente de abstração, estes são os temas principais que conectam este trabalho:  
