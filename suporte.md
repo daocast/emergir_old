@@ -51,6 +51,12 @@ O portal também serve como vitrine para projetos que sejam relevantes à explor
 
 ---
 
+<form method="POST" action="http://formspree.io/emergir.co@gmail.com">
+  <input name="email" placeholder="Seu email" type="email">
+  <textarea name="message" placeholder="Sua mensagem message"></textarea>
+  <button type="submit">Enviar</button>
+</form>
+
 E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal:
 
 ### Absorção e Compartilhamento 
