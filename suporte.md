@@ -20,15 +20,15 @@ Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre
 
 O conteúdo produzido pelo portal cobre uma ampla gama de tópicos. Algo natural, dado o aspecto interdisciplinar que caracteriza a complexidade. Porém, em ordem decrescente de abstração, estes são os temas principais que conectam este trabalho:  
 
-#### Cognição
+- **Cognição**
 
 Uma mudança de paradigma de altas proporções exige uma revisão nos mecanismos que regem a cognição. Assim, o Emergir explora teorias e meta-conceitos sobre o pensamento que se mostram mais adaptáveis à vida no século XXI.
 
-#### Ciência da Complexidade
+- **Ciência da Complexidade**
 
 O estudo de fenômenos de natureza complexa exige uma "caixa de ferramentas" diferente daquela utilizada pela ciência convencional. Dentro desta caixa encontram-se a Teoria de Redes, a Teoria da Informação, o estudo de Sistemas Dinâmicos, a Modelagem Baseada em Agente, a Não-linearidade, a Ecologia, a Teoria dos Jogos e outras técnicas e abordagens. A ideia aqui é explorar todas estas ferramentas e suas aplicações mais relevantes.
 
-#### Tendências Tecnológicas
+- **Tendências Tecnológicas**
 
 Atualmente, o movimento de decentralização é um dos melhores exemplos de abordagem que - deliberadamente ou não - utiliza a complexidade para a resolução de problemas. Ao "abraçar a hyperconectividade" e criar soluções que facilitam uma diversidade de trocas peer-to-peer (p2p), os sistemas decentralizados emergem como alternativas cada vez mais atraentes, principalmente quando contrastados com os sistemas lineares extremamente burocráticos que herdamos do século passado. Assim, o Emergir se propõe a explorar e explicar as tecnologias e aplicações mais relevantes pro trás do movimento de decentralização. Tais incluem projetos em **blockchain**, cripto-moedas (como bitcoin e ether), e outros protocolos p2p.
 
@@ -36,18 +36,19 @@ Atualmente, o movimento de decentralização é um dos melhores exemplos de abor
 
 Atualmente, grande parte do pensamento e experimentação complexa estão sendo feitos em Inglês, o que representa uma barreira natural para a sua disseminação. E de maneira a superar esta barreira para além de traduções textuais, o Emergir faz uso dos seguintes formatos:
 
-#### Cursos Animados
+- **Cursos Animados**
 
 Animações são um ótimo meio para a comunicação de ideias abstratas. Assim, o Emergir disponibiliza cursos animadados em sua frente educacional. Este conteúdo está disponível em redes de relações que enfatizam as conexões entre os diferentes tópicos.
 
-#### Podcast
+- **Podcast**
 
 Podcast são transmissões e/ou gravações de aúdio que se inspiram no formato do rádio para a comunicação de informação. Sua característica dinâmica facilita a transição entre diferente aspectos de um assunto. E eles também permitem a interação com ouvintes e convidados. O Emergir utilizará este formato para exploração de tópicos e conversas com pessoas cuja ocupação está alinhada com as premissas do portal.
 
-#### Projetos
+- **Projetos**
 
-O portal também serve como vitrine para projetos que sejam relevantes à exploração do paradigma da complexidade.
-***
+O portal também serve como vitrine para projetos que sejam relevantes à exploração do paradigma da complexidade. 
+
+---
 
 E uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal:
 
@@ -65,7 +66,8 @@ Contribuições financerias também são extremamente bem-vindas, especialmente 
 
 ### Qualquer outra forma de colaboração
 
-Pensou em alguma outra maneira de se envolver? Quer apenas bater um papo? Dê um alô: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
+Pensou em alguma outra maneira de se envolver? Quer bater um papo? Dê um alô: **emergir.co@gmail.com**. O Emergir está aberto (mas não limitado) a:
+  * Bate papo
   * Sugestão de temas;
   * Coluna no portal;
   * Participação no podcast;
