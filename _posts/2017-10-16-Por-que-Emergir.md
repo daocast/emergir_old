@@ -7,16 +7,16 @@ bigimg:
  - "/img/background_pics/emergencia.jpeg"
 ---
 
-Os eventos que marcam o século XXI expõem um padrão característico deste período. Mudanças cada vez mais rápidas e com um crescente poder de transformação social, tecnológica e ambiental. A virada do século tornou evidente os benefícios e malefícios de um mundo totalmente conectado. Por um lado, avanços tecnológicos como a internet e os smartphones aproximaram pessoas, nações, economias e culturas. Mas, por outro lado, eles também facilitaram processos globais que ameaçam a vida harmoniosa na Terra. Crises econômicas, terrorismo organizado e o estabelecimento to "mundo pós-fato" podem ser apontados como consequências reais da hyperconectividade que nos rodeia. E, por sua vez, tais ameaças fomentaram a ascenção global de líderes e ideologias político-econômicas que, ao tentar remediar problemas de escala global com soluções míopes, se auto-estabelecem como alvos de processos macro de retro-alimentação. Por exemplo, a recente saída dos EUA do Acordo climático de Paris, e os subsequentes desastres naturais que assolaram o país.
-Portanto é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas a nossa própria existência. 
-Um interpretação holistica do porquê desta inércia mostra que o exercício de apontar dedos pouco ajuda na construção de alternativas viáveis. Assim, de maneira a pensar sobre esse momento-chave, e fazer emergir soluções adapatáveias às mudanças que ainda estão por vir, é necessário abstrair para além do futebolismo de "esquerda e direita". Afinal, o século XXI exige síntese e integração - tanto de pensamento como de ação.
+Os eventos que marcam o século XXI expõem um padrão característico deste período: mudanças cada vez mais rápidas e com um crescente poder de transformação social, tecnológica e ambiental. A virada do século evidenciou os benefícios e malefícios de um mundo totalmente conectado. Por um lado, avanços tecnológicos como a internet e os smartphones aproximaram pessoas, nações, economias e culturas. Mas, por outro, eles também facilitaram processos globais que ameaçam a vida harmoniosa na Terra. Crises econômicas, terrorismo organizado e o estabelecimento to "mundo pós-fato" podem ser apontados como consequências reais da hyperconectividade que nos rodeia. E, por sua vez, tais ameaças fomentaram a ascenção global de lideranças e ideologias político-econômicas que, ao tentar remediar problemas de escala global com soluções míopes, se auto-estabelecem como alvos de processos macro de retro-alimentação. Por exemplo, as recentes decisões norteamericas "anti climate change", e os subsequentes desastres naturais que assolaram o país.
+Portanto, é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas a nossa própria existência. 
+Um interpretação holistica do porquê desta inércia mostra que o exercício de apontar dedos pouco ajuda na construção de alternativas viáveis. Assim, de maneira a pensar sobre esse momento-chave - e fazer emergir soluções adapatáveias às mudanças que ainda estão por vir - é necessário abstrair para além do futebolismo de "esquerda e direita". Afinal, se existe alguma certeza é a de que o século XXI exige síntese e integração, tanto de pensamento como de ação.
 Contuto, antes de discutir soluções, é necessário enteder este momento-chave. O que também pode ser interpretado como uma transição.
 
 ## Transição
 
-Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais evidente que estamos vivendo um processo de transição de grandes proporções. Contudo, o "rosto" e nome desta transição dependerem de quem a interpreta. Por exemplo, interpretações esotéricas podem se referir a esta transição como a chegada da Era de Aquário ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias. Por outro lado, interpretações seculares discutem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno.
+Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez mais claro que estamos vivendo um processo de transição de grandes proporções. Contudo, o "rosto" e nome desta transição dependerem de quem a interpreta. Por exemplo, interpretações esotéricas podem se referir a este momento como a chegada da Era de Aquário[^1] ou até mesmo como a chegada de Maitreya - a figura metafórica do próximo Buddah ou mesias[^2]. Ao mesmo tempo, interpretações seculares debatem sobre a entrada da Época Antropoceno - a época geológica seguinte ao Holoceno.
 
-> "The Anthropocene is a new era where one species dominates the processes of the planet, causing potentially another mass extinction, monopolizing most of the energy and material flows in the planet, having changed all the natural cycles and dynamics through our interventions in those biogeochemical cycles." *Manfred Laubichler, Santa Fe Institute*.
+> "The Anthropocene is a new era where one species dominates the processes of the planet, causing potentially another mass extinction, monopolizing most of the energy and material flows in the planet, having changed all the natural cycles and dynamics through our interventions in those biogeochemical cycles." *Manfred Laubichler, Santa Fe Institute*[^3].
 
 "Antropo" tem origem na palavra grega ἄνθρωπος (anthrōpos) que se traduz como "homem". Assim, o consenso sobre a entrada desta nova época baseia-se na crescente influência humana nos processos geológicos terrestres, bem como nas consequências catastróficas de tal fenômeno. Assim, é difícil aportar com certeza quando esta nova época se inicia. Enquanto alguns pesquisadores apontam para 1945 - devido os eventos atômicos que caracterizaram o ano - muitos ainda afirma que este é um processo mais longo, iniciado com a Revolução Industrial no século XIX. Já as interpretações esotéricas sobre esta transição tendem a ver o final do século XX - mais especificamente a década de 1970 - como o período inicial desta transição.
 
@@ -111,6 +111,13 @@ Com tudo isso, espera-se que o Emergir seja uma fonte de informação relevante 
 
 Avante, em rede!
 
+---
+
+Referências
+
+[^1]: https://www.youtube.com/watch?v=CcnYzgUghXY
+[^2]: https://en.wikipedia.org/wiki/Maitreya
+[^3]: http://www.santafenewmexican.com/pasatiempo/books/into-the-anthropocene-santa-fe-institute-s-panel-on-the/article_78527ac1-231c-5868-8d05-ef444b8bdc26.html
 
 
 
