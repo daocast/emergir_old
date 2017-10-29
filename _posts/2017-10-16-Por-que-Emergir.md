@@ -79,7 +79,9 @@ São notáveis os desafios para alcançar este objetivo. Porém, é possível en
 
 Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre livre, licenciado através das licenças [Creative Commons](https://br.creativecommons.org/).
 
-### Temática
+---
+
+#### Temática
 
 O conteúdo produzido pelo portal cobre uma ampla gama de tópicos. Algo natural, dado o aspecto interdisciplinar que caracteriza a complexidade. Porém, em ordem decrescente de abstração, estes são os temas principais que conectam este trabalho:  
 
@@ -95,7 +97,9 @@ O estudo de fenômenos de natureza complexa exige uma "caixa de ferramentas" dif
 
 Atualmente, o movimento de decentralização é um dos melhores exemplos de abordagem que - deliberadamente ou não - utiliza a complexidade para a resolução de problemas. Ao "abraçar a hyperconectividade" e criar soluções que facilitam uma diversidade de trocas peer-to-peer (p2p), os sistemas decentralizados emergem como alternativas cada vez mais atraentes aos sistemas lineares extremamente burocráticos que herdamos do século passado. Assim, o Emergir se propõe a explorar e explicar as tecnologias e aplicações mais relevantes por trás da decentralização. Tais incluem projetos em blockchain (e sua evolução), cripto-moedas (como bitcoin e ether), e outros protocolos e métodos p2p.
 
-### Formatos
+---
+
+#### Formatos
 
 Atualmente, grande parte do pensamento e experimentação complexa está sendo feitos em Inglês, o que representa uma barreira natural para a sua disseminação. E de maneira a superar esta barreira para além de traduções textuais, o Emergir faz uso dos seguintes formatos:
 
@@ -111,6 +115,8 @@ Podcast são transmissões e/ou gravações de aúdio que se inspiram no formato
 
 O portal também serve como vitrine para projetos relevantes à exploração do paradigma da complexidade. 
 
+---
+
 ## Por fim
 
 Com tudo isso, espera-se que o Emergir seja uma fonte de informação relevante para o momento de transição que se apresenta. Ao tentar catalizar novas maneiras de se pensar, organizar e agir, é assumida uma **postura otimista** em relação ao ponto de inflexão em que vivemos. E, acima de tudo, uma esperança de que é possível viver de forma harmoniosa com nós mesmos, os outros, e o ambiente.
@@ -119,7 +125,7 @@ Avante, em rede!
 
 ---
 
-Referências
+## Referências
 
 [^1]: https://www.youtube.com/watch?v=CcnYzgUghXY
 [^2]: https://en.wikipedia.org/wiki/Maitreya
