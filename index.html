@@ -4,29 +4,23 @@ title: "Emergir"
 subtitle:
 css: "/css/index.css"
 use-site-title: true
-header:
-  overlay_image: "/img/background_pics/auto-organizacao.jpg"
-  overlay_filter: 0.25
+bigimg:
+  - "/img/background_pics/auto-organizacao.jpg" : "Auto-organização"
+  - "/img/background_pics/eficacia.jpg" : "Eficácia"
+  - "/img/background_pics/caos.jpg" : "Caos"
+  - "/img/background_pics/pensamento_processual.jpg" : "Pensamento Processual"
+  - "/img/background_pics/dinamica.jpg" : "Dinâmica"
+  - "/img/background_pics/emergencia.jpeg" : "Emergência"
+  - "/img/background_pics/informacao.jpg" : "Informação"
+  - "/img/background_pics/evolucao_cultural.jpg" : "Evolução Cultural"
+  - "/img/background_pics/hyperconectividade.jpg" : "Hyperconectividade"
+  - "/img/background_pics/interdependencia.jpg" : "Interdependência"
+  - "/img/background_pics/nao-linearidade.jpg" : "Não-linearidade"
+  - "/img/background_pics/decentralizacao.jpg" : "Decentralização"
+  - "/img/background_pics/mudanca_de_paradigma.jpg" : "Mudança de Paradigma"
+  - "/img/background_pics/sinergia.jpg" : "Sinergia"
+  - "/img/background_pics/retro-alimentacao.jpg" : "Retro-alimentação"
 ---
-
-{% include base_path %}
-
-{% assign featured_posts = site.posts | where: "featured", true %}
-{% if paginator.page == 1 && featured_posts.size > 0 %}
-  <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].featured_posts }}</h3>
-
-  {% for post in featured_posts %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts }}</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
 
 <!-- Typed.js --> 
 <script src="/js/jquery-1.11.2.min.js"></script>
