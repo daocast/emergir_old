@@ -19,6 +19,9 @@ title: Emergir
 # Short description of your site
 description: Adaptação à Complexidade
 
+reading_time:       true
+words_per_minute:   200
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
