@@ -51,3 +51,5 @@ Pensando nesta perspectiva do século XXI, Brexit perde sua relevância. Ainda e
 ___
 
 Tal posicionamento da líder estoniana dá esperanças de que os Estados-Nações acordarão para a importânica do [momento-histórico](http://emergir.co/2017-10-16-Por-que-Emergir/) que atravessamos. Porém, ele não retira a responsabilidade dos cidadões, que ainda devem escolher melhor seus representantes. Com sorte, representantes como Kersti Kaljulaid.
+
+Para entender mais sobre como a Estónia têm se tornado um Estado Digital (com identidades nacionais digitais), leia sobre a [parceria](https://bitnation.co/blog/pressrelease-estonia-bitnation-public-notary-partnership/) do país com [Bitnation](https://bitnation.co/).
