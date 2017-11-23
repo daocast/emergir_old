@@ -5,7 +5,7 @@ subtitle: "'Nossos cidadãos estão tornando-se digitais e globais. Se o estado 
 image: /img/postagens/estonia/presidente.jpg
 show-avatar: false
 social-share: true
-share-img: /img/postagens/estonia/presidente.jpg
+share-img: "https://en.wikipedia.org/wiki/President_of_Estonia#/media/File:In%C4%81ra_M%C5%ABrniece_tiekas_ar_Igaunijas_prezidenti_(29833775594).jpg"
 bigimg:
  - "/img/postagens/estonia/Flag_of_Estonia.png"
 ---
