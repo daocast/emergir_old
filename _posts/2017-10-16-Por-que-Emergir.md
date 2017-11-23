@@ -67,7 +67,7 @@ A adoção de um novo paradigma conceitual é um processo que acontece em difere
 
 Neste excelente exemplo do que é a emergência (obrigado [Nicky](http://blog.ncase.me/), observa-se como um novo padrão de organização macro (movimentação da esquerda para a direita) surge do simples comportamento das partes individuais (movimentação vertical). E, mais importante, como este novo padrão é fundamentalmente diferente do padrão de organização micro. Para uma explicação ainda mais completa (e um pouco mais longa), assista ao fantástico vídeo feito pelo canal [Kurzgesagt](http://kurzgesagt.org/).
 
-<center>[![Emergene](https://img.youtube.com/vi/16W7c0mb-rE/0.jpg)](https://www.youtube.com/watch?v=16W7c0mb-rE "Emergence")</center>
+[![Emergene](https://img.youtube.com/vi/16W7c0mb-rE/0.jpg)](https://www.youtube.com/watch?v=16W7c0mb-rE "Emergence")
 
 Ao abstrair tal ideia e tentar entender como ela se aplica aos sistemas complexos que estão ao nosso redor (desde a economia até os sistemas de organização social), podemos encontrar novos padrões organizacionais que pertencem a um outro paradigma de pensamento e de possibilidades. Ao tentar entende o todo como um fenômeno gerado pelo comportamento em conjunto das partes, começamos a perceber a importância sistêmicas das conexões entre essas partes e do ambiente no qual elas estão inseridas. Em outras palavras, começamos a investigar tais sistemas através do paradigma da complexidade.
 
