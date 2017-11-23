@@ -8,7 +8,7 @@ bigimg:
 ---
 
 Os eventos que marcam o século XXI expõem um padrão característico deste período: mudanças cada vez mais rápidas e com um crescente poder de transformação social, tecnológica e ambiental. A virada do século evidenciou os benefícios e malefícios de um mundo totalmente conectado. Por um lado, avanços tecnológicos como a internet e os smartphones aproximaram pessoas, nações, economias e culturas. Mas, por outro, eles também facilitaram processos globais que ameaçam a vida harmoniosa na Terra. Crises econômicas, terrorismo organizado e o estabelecimento to "mundo pós-fato" podem ser apontados como consequências reais da hyperconectividade que nos rodeia. E, por sua vez, tais ameaças fomentaram a ascenção global de lideranças e ideologias político-econômicas que, ao tentar remediar problemas de escala global com soluções míopes, se auto-estabelecem como alvos de processos macro de retro-alimentação. Por exemplo, as recentes decisões norteamericas "anti climate change", e os subsequentes desastres naturais que assolaram o país.
-Portanto, é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas a nossa própria existência. 
+Portanto, é evidente o **momento-chave** em que vivemos. Enquanto muitos reconhecem que já temos o conhecimento e meios tecnológicos para a resolução dos problemas que nos mantêm no século XX, decidimos agir (individualmente e coletivamente) de maneira a perpetuar dinâmicas nocivas a nossa própria existência.
 Um interpretação holistica do porquê desta inércia mostra que o exercício de apontar dedos pouco ajuda na construção de alternativas viáveis. Assim, de maneira a pensar sobre esse momento-chave - e fazer emergir soluções adapatáveias às mudanças que ainda estão por vir - é necessário abstrair para além do futebolismo de "esquerda e direita". Afinal, se existe alguma certeza é a de que o século XXI exige síntese e integração, tanto de pensamento como de ação.
 Contuto, antes de discutir soluções, é necessário enteder este momento-chave. O que também pode ser interpretado como uma transição.
 
@@ -22,11 +22,11 @@ Seja pelo raciocínio livre ou através dos domínios da razão, fica cada vez m
 
 ## Ponto de Inflexão
 
-Independente das interpretações e discussões sobre o início dessa transição, ela é real. E uma síntese holística de fatos e eventos atuais leva à constatação de que **nós estamos em um ponto decisivo deste processo**. 
+Independente das interpretações e discussões sobre o início dessa transição, ela é real. E uma síntese holística de fatos e eventos atuais leva à constatação de que **nós estamos em um ponto decisivo deste processo**.
 
 > "We are currently at a major historical inflection point. Right now, several major s-curves are linking up at the same time and reinforcing each-other." *Jordan Greenhall, Deep Code*[^4].
 
-Enquanto assistimos ao desenrolar das decisões globais de alta-escala relacionadas ao futuro da economia, do ambiente e da paz, nos acostumamos com ameaças nucleares que são tratada com naturalidade nos noticiários. E dia após dia aprendemos a calar nossas emoções ao assistir centenas de pessoas morrendo à beira da praia no que é a maior crise de refugiados da história da humanidade[^5]. Além de fingirmos um cegueira coletiva em relação às crescentes temperaturas do planeta - o que apenas agravará as outras ameças existênciais[^6]. Tais posturas individuais e coletivas montram-se completamente inadequadas, ainda mais porque a situação já está mais delicada do que gostamos de imaginar. 
+Enquanto assistimos ao desenrolar das decisões globais de alta-escala relacionadas ao futuro da economia, do ambiente e da paz, nos acostumamos com ameaças nucleares que são tratada com naturalidade nos noticiários. E dia após dia aprendemos a calar nossas emoções ao assistir centenas de pessoas morrendo à beira da praia no que é a maior crise de refugiados da história da humanidade[^5]. Além de fingirmos um cegueira coletiva em relação às crescentes temperaturas do planeta - o que apenas agravará as outras ameças existênciais[^6]. Tais posturas individuais e coletivas montram-se completamente inadequadas, ainda mais porque a situação já está mais delicada do que gostamos de imaginar.
 
 > "There is now ample evidence that human activities have pushed us beyond as many as four of these critical operating boundaries for a globalized economic system." *Joe Brewer, Cultural Evolution Society*[^7].
 
@@ -44,7 +44,7 @@ Ao longo de bilhões de anos, a Terra tem mantido ciclos dinâmicos de auto-regu
 
 > "Given the novelty of the waves we are dealing with, it is very likely that our current historical moment is a once in a thousand-year or a once in ten-thousand-year event. A “mode of civilization” level event (e.g., the rise of Western Civilization from the dark ages) or a “mode of human organization” event (e.g., the rise of “civilization” itself)." *Jordan Greenhall, Deep Code*[^4].
 
-Em resumo, estamos passando por uma transição civilizatóra sem precedentes. E neste processo, o início do século XXI representa um momento de inflexão decisivo. Por um lado, a humanidade enfrenta mazelas ambientais e sociais que são ameaças reais à sua continuidade no planeta Terra. Por outro, muitos argumentam que já existem soluções para estes problemas, de maneira que uma visão utópica de equilíbrio sócio-ambiental não está distante. E apesar dos pontos levantados neste artigo até o momento serem alarmantes, o seu objetivo maior é demonstrar que ambas as possibilidades são possíveis. É tudo uma questão de escolhas conscientes. 
+Em resumo, estamos passando por uma transição civilizatóra sem precedentes. E neste processo, o início do século XXI representa um momento de inflexão decisivo. Por um lado, a humanidade enfrenta mazelas ambientais e sociais que são ameaças reais à sua continuidade no planeta Terra. Por outro, muitos argumentam que já existem soluções para estes problemas, de maneira que uma visão utópica de equilíbrio sócio-ambiental não está distante. E apesar dos pontos levantados neste artigo até o momento serem alarmantes, o seu objetivo maior é demonstrar que ambas as possibilidades são possíveis. É tudo uma questão de escolhas conscientes.
 
 ## Novos olhares para Enxergar
 
@@ -65,7 +65,9 @@ A adoção de um novo paradigma conceitual é um processo que acontece em difere
 
 ![Emergence](http://blog.ncase.me/content/images/2017/05/animation.gif)
 
-Neste excelente exemplo do que é a emergência (obrigado [Nicky](http://blog.ncase.me/)), observa-se como um novo padrão de organização macro (movimentação da esquerda para a direita) surge do simples comportamento das partes individuais (movimentação vertical). E, mais importante, como este novo padrão é fundamentalmente diferente do padrão de organização micro.
+Neste excelente exemplo do que é a emergência (obrigado [Nicky](http://blog.ncase.me/), observa-se como um novo padrão de organização macro (movimentação da esquerda para a direita) surge do simples comportamento das partes individuais (movimentação vertical). E, mais importante, como este novo padrão é fundamentalmente diferente do padrão de organização micro. Para uma explicação ainda mais completa (e um pouco mais longa), assista ao fantástico vídeo feito pelo canal [Kurzgesagt](http://kurzgesagt.org/).
+
+[![Emergene](https://img.youtube.com/vi/16W7c0mb-rE/0.jpg)](https://www.youtube.com/watch?v=16W7c0mb-rE "Emergence")
 
 Ao abstrair tal ideia e tentar entender como ela se aplica aos sistemas complexos que estão ao nosso redor (desde a economia até os sistemas de organização social), podemos encontrar novos padrões organizacionais que pertencem a um outro paradigma de pensamento e de possibilidades. Ao tentar entende o todo como um fenômeno gerado pelo comportamento em conjunto das partes, começamos a perceber a importância sistêmicas das conexões entre essas partes e do ambiente no qual elas estão inseridas. Em outras palavras, começamos a investigar tais sistemas através do paradigma da complexidade.
 
@@ -109,7 +111,7 @@ Podcast são transmissões e/ou gravações de aúdio que se inspiram no formato
 
 - **Projetos**
 
-O portal também serve como vitrine para projetos relevantes à exploração do paradigma da complexidade. 
+O portal também serve como vitrine para projetos relevantes à exploração do paradigma da complexidade.
 
 ## Por fim
 
@@ -134,7 +136,3 @@ Avante, em rede!
 [^11]: https://medium.com/@joe_brewer/why-are-universities-failing-humanity-b94c78d42d56
 [^12]: https://pt.wikipedia.org/wiki/Complexidade
 [^13]: https://en.wikipedia.org/wiki/Complexity
-
-
-
- 
