@@ -2,7 +2,7 @@
 layout: page
 title: "Presidente da Estónia - Comunicado Público"
 subtitle: "'Nossos cidadãos estão tornando-se digitais e globais. Se o estado não acompanhar, ele ficará obsoleto'"
-image: /img/postagens/estonia/presidente.png
+image: /img/postagens/estonia/presidente.jpg
 show-avatar: false
 bigimg:
  - "/img/postagens/estonia/Flag_of_Estonia.png"
