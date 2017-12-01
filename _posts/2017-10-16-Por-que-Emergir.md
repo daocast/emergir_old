@@ -1,9 +1,7 @@
 ---
-layout: page
 title: "Por que Emergir?"
 subtitle: "E pensamentos sobre Como"
 show-avatar: false
-social-share: true
 share-img: "/img/background_pics/emergencia.jpeg"
 bigimg:
  - "/img/background_pics/emergencia.jpeg"

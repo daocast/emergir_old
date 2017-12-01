@@ -2,6 +2,7 @@
 layout: page
 title: "Sobre o Emergir"
 show-avatar: false
+social-share: true
 bigimg:
  - "/img/background_pics/sinergia.jpg"
 ---
