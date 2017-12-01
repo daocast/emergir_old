@@ -49,7 +49,7 @@ Podcast são transmissões e/ou gravações de aúdio que se inspiram no formato
 
 - Projetos
 
-O portal também serve como vitrine para projetos relevantes à exploração do paradigma da complexidade. 
+O portal também serve como vitrine para projetos relevantes à exploração do paradigma da complexidade.
 
 ---
 
@@ -60,22 +60,28 @@ Uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as port
   * Novas colunas no portal;
   * Participação no podcast;
   * Eventos e encontros presenciais;
-  * Outras formas de colaboração e contribuição.
-  
+  * Outras formas sinergéticas de colaboração.
+
 ---
-  
+
 #### Doações
 
 Contribuições financerias são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. E apesar de não serem os únicos, estes são os canais preferidos:
 
 | Bitcoin | Ether | Patreon | Paypal |
 | :---: | :---: | :---: | :---: |  
-| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | [![Patreon](/img/Patreon.png)](https://www.patreon.com/emergir) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) | 
+| ![Bitcoin](/img/emergir_bitcoin_small.png) | ![Ether](/img/emergir_ether_small.png) | [![Patreon](/img/Patreon.png)](https://www.patreon.com/emergir) | [![Paypal](/img/Paypal.png)](https://www.paypal.me/emergir/) |
 
 ---
-  
+
+#### Créditos
+
+- Logo
+
+Logo "open source" criado com orgulho no site [LogoMakr.com](logomakr.com).
+
+---
+
 É assim que esperamos fazer emergir novas maneiras de se pensar. Que, principalmente, sejam adaptáves à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leia [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 
 Avante, em rede!
-
-
