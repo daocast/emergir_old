@@ -9,6 +9,8 @@ share-img: "https://en.wikipedia.org/wiki/President_of_Estonia#/media/File:In%C4
 bigimg:
  - "/img/postagens/estonia/Flag_of_Estonia.png"
 ---
+
+___
 No dia 16 de Julho de 2017, a Presidente da Estônia, Kersti Kaljulaid, escreveu um [artigo](http://www.telegraph.co.uk/news/2017/07/16/citizens-going-digital-global-state-doesnt-keep-will-become/amp/) para o portal britânico The Telegraph. Nele, ela contextualiza as relações entre Estado e cidadãos na Era Digital. Dada a importância do texto - vindo de uma chefe de Estado de um dos primeiros [Estados Digitais](https://e-estonia.com/) - para o mundo interconectado do século XXI, o Emergir decidiu trazudir o mesmo na íntegra. Leia abaixo.
 
 > para uma versão free do documento original acesse este [link](https://www.president.ee/en/media/interviews/13471-our-citizens-are-going-digital-and-global-if-the-state-doesnt-keep-up-it-will-become-obsolete-the-telegraph/index.pdf).
