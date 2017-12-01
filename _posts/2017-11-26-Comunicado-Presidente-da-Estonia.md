@@ -3,7 +3,7 @@ title: "Presidente da Estónia - Comunicado Público"
 subtitle: "'Nossos cidadãos estão tornando-se digitais e globais. Se o estado não acompanhar, ele ficará obsoleto'"
 image: /img/postagens/estonia/presidente.jpg
 show-avatar: false
-share-img: "https://en.wikipedia.org/wiki/President_of_Estonia#/media/File:In%C4%81ra_M%C5%ABrniece_tiekas_ar_Igaunijas_prezidenti_(29833775594).jpg"
+share-img: "/img/postagens/estonia/Flag_of_Estonia.png"
 bigimg:
  - "/img/postagens/estonia/Flag_of_Estonia.png"
 ---
