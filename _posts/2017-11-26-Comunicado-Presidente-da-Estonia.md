@@ -55,3 +55,5 @@ Tal posicionamento da líder estoniana dá esperanças de que os Estados-Naçõe
 Para entender mais sobre como a Estónia têm se tornado um Estado Digital (com [identidades nacionais digitais](https://e-resident.gov.ee/)), leia sobre a [parceria](https://bitnation.co/blog/pressrelease-estonia-bitnation-public-notary-partnership/) do país com [Bitnation](https://bitnation.co/), ou assista ao vídeo abaixo.
 
 [![E-residency](https://img.youtube.com/vi/vzknLXQfnSM/0.jpg)](https://www.youtube.com/watch?v=vzknLXQfnSM "E-residency")
+
+Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!

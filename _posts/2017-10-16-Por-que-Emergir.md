@@ -117,7 +117,10 @@ O portal também serve como vitrine para projetos relevantes à exploração do 
 
 Com tudo isso, espera-se que o Emergir seja uma fonte de informação relevante para o momento de transição que se apresenta. Ao tentar catalizar novas maneiras de se pensar, organizar e agir, é assumida uma **postura otimista** em relação ao ponto de inflexão em que vivemos. E, acima de tudo, uma esperança de que é possível viver de forma harmoniosa com nós mesmos, os outros, e o ambiente.
 
-Avante, em rede!
+> The post-capitalist, post-materialist societies of the future, thus, represent the emergence of not just a new form of civilization entirely — but a new form of human being, and a new way of looking at, and being in, the world.
+This new “self” will be premised on envisioning the inherent unity of the human species, the interdependence of humankind with nature, and a form of self-actualization based on safeguarding, exploring and nurturing that relationship, rather than exploiting it.[^14]
+
+Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
 
 ---
 
@@ -136,3 +139,4 @@ Avante, em rede!
 [^11]: https://medium.com/@joe_brewer/why-are-universities-failing-humanity-b94c78d42d56
 [^12]: https://pt.wikipedia.org/wiki/Complexidade
 [^13]: https://en.wikipedia.org/wiki/Complexity
+[^14]: https://medium.com/insurge-intelligence/beyond-extinction-12daed1bc851

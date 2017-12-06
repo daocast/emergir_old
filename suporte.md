@@ -85,4 +85,4 @@ Logo "open source" criado com orgulho no site [LogoMakr.com](logomakr.com).
 
 É assim que esperamos fazer emergir novas maneiras de se pensar. Que, principalmente, sejam adaptáves à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leia [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 
-Avante, em rede!
+Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
