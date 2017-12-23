@@ -32,6 +32,8 @@ Este é um artigo bastante completo (e extenso) sobre a Tecnologia de Blockchain
 8. [Contribuições](#contribuição)
 9. [Referências](#referencias)
 
+___
+
 ## Sistemas de Contabilidade <a name="introdução"></a>
 
 Você provavelmente realizou alguma transação comercial hoje, certo? Naquele momento, você parou para pensar no mecanismo tecnológico que possibilitou isso? Mecanismo que, na verdade, possibilitou todas as transações que 1) antecederam e 2) aconteceram em paralelo a sua? Pelo bem da sua sanidade eu espero que a sua resposta seja não. Felizmente, tal tecnologia é sofisticada o suficiente para que as pessoas possam viver suas vidas sem se preocupar com ela. Mas isso não muda o fato de que ela já tem cerca de 700 anos. E pior, que está começando a mostrar sua idade. Estamos falando da Contabilidade de Entrada Dupla (CED).
@@ -97,12 +99,14 @@ Porém, para além da especulação, existem outros desafios no caminho de Bitco
 ### Transações por Segundo <a name="transações"></a>
 
 ![transações](/img/postagens/blockchain/transacoes.png)
+<img src="img/postagens/blockchain/transacoes.png" alt="transações" style="width: 200px;"/>
 
 Este gráfico demonstra um dos maiores desafios de escalabilidade de Bitcoin. Quando pensamos nesta tecnologia como uma alternativa às atuais formas de transações financeiras - que são centralizadas e portanto invariavelmente burocráticas - é necessário considerar se esta tecnologia oferece um serviço superior aos seus usuários finais. E como podemos ver, quando a métrica é transações por segundos, Bitcoin ainda fica muito atrás das opções convencionais. Em outras palavras, transações com Bitcoin acabam sendo mais lentas do que o pagamento com cartão. Tal fato foi inclusive uma das razões que fizeram com que alguns membros da comunidade Bitcoin optassem por uma outra versão do protocolo - o chamado [fork](https://guiadobitcoin.com.br/tag/fork-bitcoin/) que deu origem ao Bitcoin Cash, uma moeda que é muito parecida com o Bitcoin mas que apresenta melhores resultados em transações por segundo.
 
 ### Consumo de Energia <a name="energia"></a>
 
 ![energia](/img/postagens/blockchain/energia.png)
+<img src="img/postagens/blockchain/energia.png" alt="transações" style="width: 200px;"/>
 
 Já este gráfico diz respeito a uma grande controvérsia a respeito da manutenção da infraestrutura de blockchain que suporta o Bitcoin. Ele tem um caráter comparativo, já que os valores exatos de consumo energético das opções listada não são tão simples de estimar. Porém, o gráfico ainda é útil para demonstrar a grande quantidade de energia necessária para manter a rede Bitcoin com os atuais mecanismos de incentivo. Como é comentado no vídeo acima, para transmitir um novo bloco ao registro compartilhado, um minerador deve resolver um problema matemático que confere uma prova de trabalho ao bloco. E estes problemas matemático têm uma dificuldade crescente para garantir que novos blocos sejam gerados a cada 10 minutos na rede. Assim, conforme o número de mineradores aumenta - devido à crescente adoção do sistema - é fácil de imaginar que mais e mais computadores estarão tentando resolver os mesmos problemas (com apenas um ganhador), gerando assim um alto consumo energético por parte da rede. Até recentemente, tal fator não era uma preocupação para o funcionamento da criptomoeda. Porém, conforme mais pessoas passam a utilizar-la, esse aspecto se torna mais importante. Principalmente por conta das estimativas que argumentam que a quantidade de energia utilizada para manter o Bitcoin é equivalente à energia necessária para alimentar centenas de milhares de casas por um ano. Isto é, uma cidade inteira.
 
@@ -118,7 +122,8 @@ Qualquer pessoa que já precisou pisar em um cartório sabe da ineficiência des
 
 Fora do campo financeiro, tais transações podem ser entendidas como a transferência de posse de bens entre duas pessoas ou a utilização de informações cívicas para a comprovação de identidade ou estado conjugal. Junto a isso, está o fato de que as informações registradas em um blockchain são imutáveis por definição (veja o vídeo para entender o porquê). Assim…
 
-> A tecnologia de blockchain pode ser utilizada para o armazenamento e validação descentralizada de informações cívicas e jurídicas como certidões de nascimento e casamento, comprovantes de identidade, comprovantes de posse de bens ou ações, registros de acordos e muito mais.
+{: .box-note}
+A tecnologia de blockchain pode ser utilizada para o armazenamento e validação descentralizada de informações cívicas e jurídicas como certidões de nascimento e casamento, comprovantes de identidade, comprovantes de posse de bens ou ações, registros de acordos e muito mais.
 
 Essa é a grande promessa desta tecnologia. A descentralização de serviços de registros que hoje são burocráticos e tornam processos simples em maratonas custosas e demoradas. E se pensarmos bem, apesar de não percebermos, praticamente tudo relacionado à vida em sociedade passa por algum sistema de registro. Alguns são reais e físicos - como os registros de um cartório - e outros vivem no imaginário coletivo - como os registros de interações sociais que regem a reputação de um indivíduo em uma comunidade. Portanto, se conseguirmos tornar estes sistemas de registro mais eficazes - em detrimento da burocracia - criamos espaço para um fluxo maior de informação entre as pessoas, permitindo maiores atividades econômicas, políticas e culturais. Isto é, damos espaço à Complexidade.
 
@@ -265,6 +270,14 @@ ___
 
 ## Referências <a name="referencias"></a>
 
+- Videos:
+
+1. https://www.youtube.com/watch?v=bBC-nXj3Ng4
+2. https://www.youtube.com/watch?v=Lx9zgZCMqXE&feature=youtu.be
+3. https://www.youtube.com/watch?v=SSo_EIwHSd4
+4. https://www.youtube.com/watch?v=I2oNSs3c_WA
+5. https://anders.com/blockchain/coinbase.html
+
 - Textos:
 
 [^1]: https://hackernoon.com/why-everyone-missed-the-most-important-invention-in-the-last-500-years-c90b0151c169
@@ -287,10 +300,3 @@ ___
 [^18]: https://tse.bitnation.co/
 [^19]: https://district0x.io/
 [^20]: https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203
-
-- Videos:
-1. https://www.youtube.com/watch?v=bBC-nXj3Ng4
-2. https://www.youtube.com/watch?v=Lx9zgZCMqXE&feature=youtu.be
-3. https://www.youtube.com/watch?v=SSo_EIwHSd4
-4. https://www.youtube.com/watch?v=I2oNSs3c_WA
-5. https://anders.com/blockchain/coinbase.html
