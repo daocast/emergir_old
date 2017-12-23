@@ -8,7 +8,7 @@ bigimg:
  - "/img/postagens/blockchain/cover.png"
 ---
 
-Este é um artigo bastante completo (e extenso) sobre a Tecnologia de Blockchain através de uma perspectiva de evolução de sistemas de contabilidade. Portanto...
+Este é um artigo bastante detalhado sobre a Tecnologia de Blockchain através de uma perspectiva de evolução de sistemas de contabilidade. Investigamos como diferentes sistemas contábeis foram criados como resposta a crescentes níveis de complexidade comercial e como o Blockchain se encaixa neste contexto. Também é apresentada uma explicação em vídeo sobre o funcionamento do primeiro blockchain e as evoluções desta tecnologia, que prometem trazer grandes mudanças na maneira em que nos organizamos socialmente.
 
 # Encontre-se
 
