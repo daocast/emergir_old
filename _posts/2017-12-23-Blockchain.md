@@ -149,9 +149,20 @@ E finalmente, o projeto Ethereum também apresenta uma máquina virtual (Ethereu
 
 Com tais características, a infraestrutura Ethereum pode ser entendida como um super computador capaz de armazenar e computar contratos em formato de software sobre qualquer transação entre dois ou mais pares. O que é, por si só, um feito incrível. Porém, suas aplicações mais interessantes surgem do fato de que novos tokens cripto - à exemplo do Bitcoin e Ether - podem ser criados com a expedição de contratos inteligentes no blockchain Ethereum. Desta maneira, qualquer pessoa ou organização pode criar [tokens cripto](https://www.ethereum.org/token) (ou simplesmente tokens) que sirvam de incentivo para diferentes ecossistemas descentralizados que giram em torno do blockchain Ethereum. E com isso, Ethereum têm fomentado o surgimento de vários [DApps](https://blog.bitnation.co/what-are-dapps/) (Decentralized Apps) que buscam melhorar a eficiências de setores corroídos pela burocracia de sistemas de registros e verificação que não foram criados para a era da internet. Estes DApps funcionam como qualquer outra aplicação de software instalada em seu computador ou celular. Porém, pelo fato de eles operarem de maneira descentralizada, seus incentivos de participação são diferentes, de forma que os usuários finais tendem a se beneficiar (inclusive financeiramente) da sua participação na aplicação. Tal movimento tem originado o que está sendo conhecido como Internet 3.0. Uma internet composta de aplicações descentralizadas e regidas por crypto-tokens que retribuem a participação de seus usuários em ecossistemas completamente novos.
 
-E apesar da infraestrutura Ethereum não ser a única a proporcionar a criação de tais projetos, ela é, hoje, a mais popular e talvez a mais completa para esta tarefa.
-
 >"From socializing to hailing a cab to finding our way around, there's an app to help. Now, there is a new and improved model that is revolutionizing the way we build scalable applications called a DApp, or decentralized application." [^10]
+
+E apesar da infraestrutura Ethereum ser hoje a mais popular para a criação de Dapps, os esforços para melhorar a tecnologia de blockchain - ou apresentar uma alternativa que a torne obsoleta - não param. Caso você queira conhecer mais sobre as outras iniciativas que buscam dar o próximo grande passo no campo de infraestrutura para a descentralização, esta é uma lista de alguns destes projetos:
+
+### Projetos <a name="outros"></a>
+
+- [Holochain - A new alternative web for truly peer-to-peer applications](https://holochain.org/)
+- [Hashgraph - Superior Distributed Ledger Technology](https://hashgraph.com/)
+- [RaiBlocks - Feeless Distributed Cryptocurrency Network](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf)
+- [EOS - First Blockchain Operating System](https://steemit.com/eos/@trogdor/introduction-to-eos-the-epic-blockchain-operating-system)
+- [IOTA - Next Generation Blockchain](https://iota.org/)
+- [Bitlattice - Multi-Dimensional Lattice Structure](http://bitlattice.org/)
+
+Apesar das diferentes especificações técnicas, todos esses projetos têm um desejo em comum: oferecer as fundações para os Dapps e a Internet 3.0. Que, por sua vez irão revolucionar a maneira como interagimos em sociedade. É difícil de saber quais projetos terão sucesso nesta empreitada. Porém, isso não muda o fato de que estamos vivenciando um momento que gera bastante expectativas. Até por que hoje podemos acompanhar o desenvolvimento destas tecnologias e projetos em tempo real, através de seus canais de comunicação nas redes socias. Muitos até falam que estamos vivendo momento parecidos ao surgimento da internet na década de 90. Porém, com proporções muito maiores.
 
 ## Descentralizando o Mundo para abraçar a Complexidade <a name="descentralizar"></a>
 
@@ -234,19 +245,6 @@ E neste mundo de possibilidades, cabe a cada pessoa se manter informada sobre as
 Chegamos às considerações finais sobre esta breve exploração dos sistemas de registro de informação. Inicialmente, motivados por desafios comerciais, estes sistemas passaram por transformações drásticas em suas estruturas, e hoje vivemos um momento ímpar nessa história com o nascer da tecnologia de blockchain. Apesar do Bitcoin ser hoje a aplicação mais conhecida no que se refere aos mecanismos de entrada tripla, ele ainda se limita ao campo da contabilidade por conta do seu aspecto financeiro. E mesmo não sabendo exatamente como tudo vai acontecer, é razoável imaginar que muitas outras revoluções estão por vir com o surgimento das DApps aqui mencionadas e de outras que ainda estão sendo criadas.
 
 Obviamente, o impacto real destas aplicações dependerá das taxas de adoção entre a população do mundo e de como elas irão lidar com problemas como aqueles que mencionamos aqui e outros que ainda surgirão. A partir de uma visão optimista deste processo, a adoção de tais tecnologias será inevitável, uma vez que elas oferecem vantagens em relação à privacidade burocracia que as tornam mais atrativas. E tais vantagens só tendem a aumentar conforme as tecnologias e protocolos baseados em blockchain evoluem.
-
-Afinal, os esforços para melhorar esta tecnologia - ou apresentar uma alternativa que a torne obsoleta - não param. Neste artigo exploramos apenas o projeto Ethereum dentro desta categoria, mas existem várias outras iniciativas que buscam dar o próximo grande passo no campo de infraestrutura para a descentralização. Esta é uma lista de alguns destes projetos:
-
-### Projetos <a name="outros"></a>
-
-- [Holochain - A new alternative web for truly peer-to-peer applications](https://holochain.org/)
-- [Hashgraph - Superior Distributed Ledger Technology](https://hashgraph.com/)
-- [RaiBlocks - Feeless Distributed Cryptocurrency Network](https://raiblocks.net/media/RaiBlocks_Whitepaper__English.pdf)
-- [EOS - First Blockchain Operating System](https://steemit.com/eos/@trogdor/introduction-to-eos-the-epic-blockchain-operating-system)
-- [IOTA - Next Generation Blockchain](https://iota.org/)
-- [Bitlattice - Multi-Dimensional Lattice Structure](http://bitlattice.org/)
-
-Apesar das diferentes especificações técnicas, todos esses projetos têm um desejo em comum: oferecer as fundações para os Dapps e a Internet 3.0. Que, por sua vez irão revolucionar a maneira como interagimos em sociedade. É difícil de saber quais projetos terão sucesso nesta empreitada. Porém, isso não muda o fato de que estamos vivenciando um momento que gera bastante expectativas. Até por que hoje podemos acompanhar o desenvolvimento destas tecnologias e projetos em tempo real, através de seus canais de comunicação nas redes socias. Muitos até falam que estamos vivendo momento parecidos ao surgimento da internet na década de 90. Porém, com proporções muito maiores.
 
 De maneira geral, as promessas aqui mencionada são realmente grandiosas. E um certo tom de ceticismo construtivo não faz mal. Porém, caso fosse possível voltar no tempo, eu adoraria ir à Veneza do final século XV e observar as reações dos mercantes da época em seu primeiro contato com a invenção do Frei Luca Pacioli. Na minha opinião, o sistema de contabilidade de entrada dupla deve ter parecido tão estranho para as pessoas daquele período quanto as tecnologias de blockchain são estranhas para as pessoas hoje em dia. Contudo, isso não diminui o impacto que aquela tecnologia teve no mundo. E eu acredito que o mesmo vale para as tecnologias de Registro Público de Entrada Tripla. Mas cabe ao tempo definir o que acontecerá. Por enquanto, é importante sempre tentar não tentar ficar para trás.
 
