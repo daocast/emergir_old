@@ -3,7 +3,7 @@ title: "Blockchain"
 subtitle: "Tecnologia de Registro de Entrada Tripla"
 image: "/img/postagens/blockchain/thumb.png"
 show-avatar: false
-share-img: "/img/postagens/blockchain/cover.png"
+share-img: "/img/postagens/blockchain/capa.png"
 bigimg:
  - "/img/postagens/blockchain/cover.png"
 ---
