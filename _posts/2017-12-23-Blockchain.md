@@ -1,6 +1,7 @@
 ---
 title: "Blockchain"
 subtitle: "Tecnologia de Registro de Entrada Tripla"
+image: "/img/postagens/blockchain/thumb.png"
 show-avatar: false
 share-img: "/img/postagens/blockchain/cover.png"
 bigimg:
@@ -83,6 +84,8 @@ Ao afirmar que blockchain é uma versão aprimorada da CET estamos pensando na f
 
 ### Vídeo <a name="video"></a>
 
+[![Blockchain](/img/postagens/blockchain/capa.png)](https://www.youtube.com/watch?v=az9_gdgHdpI "Blockchain")
+
 ## Bitcoin, a Primeira Aplicação <a name="bitcoin"></a>
 
 A criação de Sathoshi Nakamoto representa um marco histórico para o sistema financeiro mundial. Pela primeira vez viabilizou-se a realização de transações entre pares de forma completamente descentralizada e segura. Isto é, sem a necessidade de uma instituição fiscalizadora determinando a validade da transação e atualizando os registros e balanços das partes envolvidas. Porém, a ideia de um terceiro registro que é aberto, protegido por criptografia e atualizado de maneira automática passou despercebida por muito tempo.
@@ -99,14 +102,12 @@ Porém, para além da especulação, existem outros desafios no caminho de Bitco
 ### Transações por Segundo <a name="transações"></a>
 
 ![transações](/img/postagens/blockchain/transacoes.png)
-<img src="img/postagens/blockchain/transacoes.png" alt="transações" style="width: 200px;"/>
 
 Este gráfico demonstra um dos maiores desafios de escalabilidade de Bitcoin. Quando pensamos nesta tecnologia como uma alternativa às atuais formas de transações financeiras - que são centralizadas e portanto invariavelmente burocráticas - é necessário considerar se esta tecnologia oferece um serviço superior aos seus usuários finais. E como podemos ver, quando a métrica é transações por segundos, Bitcoin ainda fica muito atrás das opções convencionais. Em outras palavras, transações com Bitcoin acabam sendo mais lentas do que o pagamento com cartão. Tal fato foi inclusive uma das razões que fizeram com que alguns membros da comunidade Bitcoin optassem por uma outra versão do protocolo - o chamado [fork](https://guiadobitcoin.com.br/tag/fork-bitcoin/) que deu origem ao Bitcoin Cash, uma moeda que é muito parecida com o Bitcoin mas que apresenta melhores resultados em transações por segundo.
 
 ### Consumo de Energia <a name="energia"></a>
 
 ![energia](/img/postagens/blockchain/energia.png)
-<img src="img/postagens/blockchain/energia.png" alt="transações" style="width: 200px;"/>
 
 Já este gráfico diz respeito a uma grande controvérsia a respeito da manutenção da infraestrutura de blockchain que suporta o Bitcoin. Ele tem um caráter comparativo, já que os valores exatos de consumo energético das opções listada não são tão simples de estimar. Porém, o gráfico ainda é útil para demonstrar a grande quantidade de energia necessária para manter a rede Bitcoin com os atuais mecanismos de incentivo. Como é comentado no vídeo acima, para transmitir um novo bloco ao registro compartilhado, um minerador deve resolver um problema matemático que confere uma prova de trabalho ao bloco. E estes problemas matemático têm uma dificuldade crescente para garantir que novos blocos sejam gerados a cada 10 minutos na rede. Assim, conforme o número de mineradores aumenta - devido à crescente adoção do sistema - é fácil de imaginar que mais e mais computadores estarão tentando resolver os mesmos problemas (com apenas um ganhador), gerando assim um alto consumo energético por parte da rede. Até recentemente, tal fator não era uma preocupação para o funcionamento da criptomoeda. Porém, conforme mais pessoas passam a utilizar-la, esse aspecto se torna mais importante. Principalmente por conta das estimativas que argumentam que a quantidade de energia utilizada para manter o Bitcoin é equivalente à energia necessária para alimentar centenas de milhares de casas por um ano. Isto é, uma cidade inteira.
 
@@ -270,7 +271,7 @@ ___
 
 ## Referências <a name="referencias"></a>
 
-- Videos:
+- Vídeos:
 
 1. https://www.youtube.com/watch?v=bBC-nXj3Ng4
 2. https://www.youtube.com/watch?v=Lx9zgZCMqXE&feature=youtu.be
