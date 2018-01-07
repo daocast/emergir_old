@@ -29,9 +29,10 @@ Este é um artigo bastante detalhado sobre a Tecnologia de Blockchain através d
     4. [Bitnation](#bitnation)
     5. [district0x](#district)
     6. [E Muito, Muito Mais…](#mais)
-7. [Finalmente](#final)
-8. [Contribuições](#contribuição)
-9. [Referências](#referencias)
+7. [Guia de Cryptomoedas](#guia)
+8. [Finalmente](#final)
+9. [Contribuições](#contribuição)
+10. [Referências](#referencias)
 
 ___
 
@@ -244,6 +245,12 @@ Basicamente, para todos os serviços existentes hoje em dia, haverá uma pessoa 
 
 ![mapa](/img/postagens/blockchain/map.png)
 
+## Guia de Cripto-tokens <a name="guia"></a>
+
+Muitos tokens e moedas digitais foram desenvolvidos nos últimos anos. Principalmente depois do lançamento do projeto Ethereum. Portanto, é difícil estar sempre atualizado sobre as funcionalidades de cada moeda. Felizmente, existem resumos que auxiliam neste processo[^21]:
+
+![resumo](/img/postagens/blockchain/resumo.jpg)
+
 E neste mundo de possibilidades, cabe a cada pessoa se manter informada sobre as soluções sendo criadas, bem como os seus benefícios e riscos.
 
 ## Finalmente <a name="final"></a>
@@ -301,3 +308,4 @@ ___
 [^18]: https://tse.bitnation.co/
 [^19]: https://district0x.io/
 [^20]: https://medium.com/birds-view/mapping-the-decentralized-world-of-tomorrow-5bf36b973203
+[^21]: https://www.newline.co/
