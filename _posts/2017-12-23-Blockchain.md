@@ -225,6 +225,8 @@ Com a sua plataforma chamada [Pangea](https://tse.bitnation.co/), Bitnation pret
 
 Bitnation é um dos grandes nomes dentro do mundo cripto (mundo que envolve os projetos baseados em tecnologia de blockchain). Muito por conta de seus projetos anteriores, como a [parceria com o governo da Estónia](https://bitnation.co/blog/pressrelease-estonia-bitnation-public-notary-partnership/) para emissão das identidades digitais dos cidadãos do país em um blockchain, e a criação de um sistema Emergencial de Identidade para Refugiados durante a crise de 2015 - [BITNATION Refugee Emergency Response (BRER](https://bitnation.co/refugee-emergency-response/) - também em blockchain. E recentemente o projeto organizou reuniões abertas com representantes dos movimentos sociais da Catalunha para a criação de uma [DBVN catalã](https://bitnation.co/refugee-emergency-response/). Enfim, são grandes as expectativas em torno da plataforma Pangea e elas só aumentam quando olhamos para o histórico de atuação do grupo desenvolvendo a mesma. Felizmente, logo saberemos como esta ferramenta impactará a vida de seus usuários, uma vez que Bitnation está muito próximo de realizar o seu ICO.
 
+![Bitnation](/img/postagens/blockchain/bitnation.jpg)
+
 E se a descentralização do Estado-nação é uma ideia impressionante por si só. O que dizer sobre a descentralização do Mercado? O projeto [District0x](https://district0x.io/) pode ter as respostas para esta pergunta.
 
 ### District0x <a name="district"></a>
