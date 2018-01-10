@@ -85,6 +85,8 @@ Ao afirmar que blockchain é uma versão aprimorada da CET estamos pensando na f
 
 ### Vídeo <a name="video"></a>
 
+Clique na imagem abaixo para ser direcionado ao vídeo.
+
 [![Blockchain](/img/postagens/blockchain/capa.png)](https://www.youtube.com/watch?v=az9_gdgHdpI "Blockchain")
 
 ## Bitcoin, a Primeira Aplicação <a name="bitcoin"></a>
@@ -102,7 +104,7 @@ Porém, para além da especulação, existem outros desafios no caminho de Bitco
 
 ### Transações por Segundo <a name="transações"></a>
 
-![transações](/img/postagens/blockchain/transacoes.png)
+![Transações](/img/postagens/blockchain/transacoes.png)
 
 Este gráfico demonstra um dos maiores desafios de escalabilidade de Bitcoin. Quando pensamos nesta tecnologia como uma alternativa às atuais formas de transações financeiras - que são centralizadas e portanto invariavelmente burocráticas - é necessário considerar se esta tecnologia oferece um serviço superior aos seus usuários finais. E como podemos ver, quando a métrica é transações por segundos, Bitcoin ainda fica muito atrás das opções convencionais. Em outras palavras, transações com Bitcoin acabam sendo mais lentas do que o pagamento com cartão. Tal fato foi inclusive uma das razões que fizeram com que alguns membros da comunidade Bitcoin optassem por uma outra versão do protocolo - o chamado [fork](https://guiadobitcoin.com.br/tag/fork-bitcoin/) que deu origem ao Bitcoin Cash, uma moeda que é muito parecida com o Bitcoin mas que apresenta melhores resultados em transações por segundo.
 

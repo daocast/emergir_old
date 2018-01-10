@@ -1,8 +1,16 @@
-# CHANGELOG
+ # CHANGELOG
 
 This file lists all non-trivial changes to Beautiful Jekyll.
 
 I often make small changes to documentation, to the demo site, or to the general look-and-feel. These changes will not be listed here. Any other minor changes will also not be listed here.
+
+**2018-01-06** More color personalization options (#297 and #299) (thanks @jennydaman)
+
+**2018-01-05** Abstract the social networks logic (thanks @OCram85)
+
+**2018-01-03** Avatar image no longer causes a ghost click (thanks @alefi87)
+
+**2017-10-16** Add GitHub buttons to posts (#265) (thanks @yonicd)
 
 **2017-09-04** Ability to change colour/image of navbar/footer/body
 
@@ -22,7 +30,7 @@ I often make small changes to documentation, to the demo site, or to the general
 
 **2016-12-25** Allow dynamic images on each blog post (#143) (thanks @bbritten)
 
-**2016-12-15** Support `title-img` config param to have image in the navbar instead of text 
+**2016-12-15** Support `title-img` config param to have image in the navbar instead of text
 
 **2016-12-08** Add support for phone numbers in footer; fix #136
 
@@ -44,7 +52,7 @@ I often make small changes to documentation, to the demo site, or to the general
 
 **2016-02-07** Avatar is now conditional (thanks @hristoyankov)
 
-**2016-02-02** Migrate (forced to...) to jekyll 3 
+**2016-02-02** Migrate (forced to...) to jekyll 3
 
 **2016-01-22** Make sure not to include JQuery twice, fixes #29
 
