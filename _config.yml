@@ -42,6 +42,9 @@ avatar: "/img/emergir.jpg"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a76e252... updates
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
@@ -51,6 +54,7 @@ avatar: "/img/emergir.jpg"
 # footer-img: "/img/backgrd.jpg"
 # page-col: "#FF0000"
 # page-img: "/img/backgrd.jpg"
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> daattali/master
@@ -73,6 +77,8 @@ footer-link-col: "#404040"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
 >>>>>>> daattali/master
+=======
+>>>>>>> parent of a76e252... updates
 
 # --- Footer options --- #
 
@@ -81,6 +87,9 @@ footer-link-col: "#404040"
 author:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a76e252... updates
   name: Emergir
   email: "emergir.co@gmail.com"
   facebook: emergir.co  # eg. daattali
@@ -120,6 +129,7 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> daattali/master
@@ -152,6 +162,8 @@ social-network-links:
 >>>>>>> daattali/master
 =======
 >>>>>>> daattali/master
+=======
+>>>>>>> parent of a76e252... updates
 
 # Select which share links to show in posts
 share-links-active:
@@ -280,7 +292,7 @@ prose:
           label: "Publish"
           help: "Check to publish post, uncheck to hide."
 
-plugins:
+gems:
   - jekyll-paginate
 
 # Beautiful Jekyll / Dean Attali
