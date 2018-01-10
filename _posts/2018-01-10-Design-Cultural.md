@@ -7,6 +7,7 @@ share-img: "/img/postagens/design_cultural/cover.jpg"
 bigimg:
  - "/img/postagens/design_cultural/cover.jpg"
 ---
+
 # Design
 
 Apesar de muitas vezes negligenciado, o Design é uma ferramenta fundamental para o processo de criação de produtos, serviços, experiências e, como veremos, [conceitos](https://pt.wikipedia.org/wiki/Conceito). De modo a exemplificar esta afirmação, pare por um instante e olhe ao seu redor. Pense nas razões que justificam as escolhas de material, formato e cor para os objetos no seu ambiente. O que levou os criadores destes objetos a decidir por tais características? Por que não outras? Como seria a experiência de utilizar estes objetos caso eles tivessem composições diferentes? Todas estas questões fazem parte do processo de design de algo, e deixar de respondê-las pode ser perigoso. Literalmente.
