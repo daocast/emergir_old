@@ -8,8 +8,6 @@ bigimg:
  - "/img/postagens/design_cultural/cover.jpg"
 ---
 
-# Design
-
 Apesar de muitas vezes negligenciado, o Design é uma ferramenta fundamental para o processo de criação de produtos, serviços, experiências e, como veremos, [conceitos](https://pt.wikipedia.org/wiki/Conceito). De modo a exemplificar esta afirmação, pare por um instante e olhe ao seu redor. Pense nas razões que justificam as escolhas de material, formato e cor para os objetos no seu ambiente. O que levou os criadores destes objetos a decidir por tais características? Por que não outras? Como seria a experiência de utilizar estes objetos caso eles tivessem composições diferentes? Todas estas questões fazem parte do processo de design de algo, e deixar de respondê-las pode ser perigoso. Literalmente.
 
 ![Design Falho](/img/postagens/design_cultural/design_falho.jpg)
@@ -86,7 +84,7 @@ O primeiro projeto que merece destaque é a [Culture Evolution Society (“Socie
 
 > “The global community of researchers we are organizing in the Cultural Evolution Society have given themselves the mission to synthesize biology, the social sciences, and humanities on the academic front… This will be an essential pillar for guiding the (Culture Design) practitioner community with data analytics, cultural monitoring, and action research projects — where every location engaging in social change can become a field site for cultural evolution research.”[^6]
 
-![Planejamento](/img/postagens/design_cultural/mapa.jpg)
+![Mapeamento](/img/postagens/design_cultural/mapa.jpg)
 
 ## TheRules.org
 
@@ -98,7 +96,7 @@ Assim, não é difícil de imaginar como a proximidade com o The Rules pode auxi
 
 ## Smart Ecologies
 
-E outra parceria de destaque é o projeto [Smart Ecologies](https://via.hypothes.is/https://www.slideshare.net/goonth/smart-ecologies#annotations:ktzFAOHSEeeJrl-9_IpJVw), que teve Joe como um de seus conselheiros fundadores e que hoje se encontra em estágios avançados de desenvolvimento de modelos teóricos e de infraestrutura para negócios e sistemas econômicos alternativos que visam um posicionamento estável no mundo pós-capitalista. Um de tais modelos é a incubadora global SHIFT, como detalhado abaixo:
+E outra parceria de destaque é o projeto [Smart Ecologies](https://www.slideshare.net/goonth/smart-ecologies#annotations:ktzFAOHSEeeJrl-9_IpJVw), que teve Joe como um de seus conselheiros fundadores e que hoje se encontra em estágios avançados de desenvolvimento de modelos teóricos e de infraestrutura para negócios e sistemas econômicos alternativos que visam um posicionamento estável no mundo pós-capitalista. Um de tais modelos é a incubadora global SHIFT, como detalhado abaixo:
 
 ![Shift](/img/postagens/design_cultural/shift.png)
 
@@ -158,7 +156,7 @@ Com a criação dos primeiros CDLs nos próximos anos, é esperado que projetos 
 **Biomimética:** "Humans are clever, but without intending to, we have created massive sustainability problems for future generations. Fortunately, solutions to these global challenges are all around us.
 Biomimicry is an approach to innovation that seeks sustainable solutions to human challenges by emulating nature’s time-tested patterns and strategies. The goal is to create products, processes, and policies—new ways of living—that are well-adapted to life on earth over the long haul. The core idea is that nature has already solved many of the problems we are grappling with. Animals, plants, and microbes are the consummate engineers. After billions of years of research and development, failures are fossils, and what surrounds us is the secret to survival.”[^10]
 
-“[Biomimética](/img/postagens/design_cultural/biomimicry.gif)
+![Biomimética](/img/postagens/design_cultural/biomimicry.gif)
 
 Estamos vivendo os momentos iniciais deste planejamento, onde Joe, além de estabelecer as parcerias institucionais para a criação do campo de Design Cultural, começa os trabalhos de estruturação e formalização do CDI. Reuniões importantes têm acontecido já no início de 2018 para garantir a incubação do projeto junto ao Oregon Research Institute. E em paralelo, Joe inicia esforços de fundraising para a criação de uma [biblioteca de Evolução Cultural](https://www.gofundme.com/cultural-evolution-research-library) que abastecerá o CDI. E ele também mantém uma conta no Patreon (plataforma em que usuários podem ajudar financeiramente os seus criadores de conteúdo favoritos), onde entusiastas do campo de Design Cultural podem contribuir com o projeto.
 
