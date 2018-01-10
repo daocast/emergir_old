@@ -36,6 +36,10 @@ E embora seja possível encontrar conforto e transferência de responsabilidade 
 
 > "According to Kuhn, this crisis phase will persist indefinitely, regardless of the emergence of new data, until a new way to think about economic theory emerges – this will be the paradigm shift which resolves the crisis. The various competing schools of thought will see in any new data what they want to see." *George Cooper, Evonomics*[^9].
 
+Isto porque o que estamos vivenciando é uma "Grande Transição Além dos Impérios", como definido pelo pesquisador da complexidade Joe Brewer[^15], onde enfrentamos dilemas entre valores seculares e tradições estabelecidas (culturalmente e cognitivamente). Pela primeira vez estamos sendo confrontados com os limites ecológicos do nosso meio, o que é algo que nenhum grande império na história da humanidade teve que enfrentar. E para a resolução de problemas sistêmicos dessa grandeza, são necessárias soluções em rede, que transcendem as fronteiras de impérios e os egos de imperadores.
+
+> "We now have to choose between two metaphors for our planetary civilization — we can be a cancer that kills its host or a butterfly that arises transformed from the mindlessly consuming caterpillar. But it is incumbent upon us now to collectively choose before the choice is made for us by the cumulation of decisions made in the past. There are consequences for inaction in times like these."[^15]
+
 ## O Pior
 
 Ao longo de bilhões de anos, a Terra tem mantido ciclos dinâmicos de auto-regulação altamente complexos que, dentre outras coisas, permitiram o surgimento e a evolução da vida até as formas em que ela se manifesta hoje em dia. Porém, existem condições limites para o funcionamento efetivo destes ciclos e, atualmente, com a crescente interferência humana em tais processos, elas não estão sendo respeitadas. O Stockholm Resilience Institute é um centro internacional de pesquisa focado em desenvolvimento social através da reconexão com a biosfera. Uma de suas iniciativas define e supervisiona os "Nove Limites Planetários" para o equilíbrio do sistema sócio-ecológico que rege a vida na Terra[^10]. Em seu relatório de 2015 o Instituto divulgou resultados alarmante, que denunciam como já ultrapassamos quatro dos nove limites. Um dos insights mais impressionantes é o de que os limites relacionados às mudanças climáticas não estão na zona de alto risco (beyond uncertainty) do mapa. Ou seja, apesar da já insuficiente preocupação com as mudanças do clima, esse é um problema "pequeno" quando comparado com outros fenômenos que regulam os ciclos biogeoquímicos do planeta.
@@ -140,3 +144,4 @@ Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_huma
 [^12]: https://pt.wikipedia.org/wiki/Complexidade
 [^13]: https://en.wikipedia.org/wiki/Complexity
 [^14]: https://medium.com/insurge-intelligence/beyond-extinction-12daed1bc851
+[^15]: https://medium.com/personal-growth/solving-a-problem-that-has-not-been-named-de5d3ef54d6c
