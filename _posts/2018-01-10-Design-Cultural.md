@@ -1,3 +1,4 @@
+---
 title: "Design Cultural"
 subtitle: "O Campo Científico Necessário para o Século XXI"
 image: "/img/postagens/design_cultural/thumb.png"
