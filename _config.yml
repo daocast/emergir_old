@@ -44,10 +44,13 @@ avatar: "/img/emergir.jpg"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of a76e252... updates
 =======
 >>>>>>> parent of a76e252... updates
+=======
+>>>>>>> parent of 556de19... açrufb
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
@@ -60,8 +63,6 @@ avatar: "/img/emergir.jpg"
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-=======
->>>>>>> daattali/master
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
@@ -95,10 +96,13 @@ author:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> parent of a76e252... updates
 =======
 >>>>>>> parent of a76e252... updates
+=======
+>>>>>>> parent of 556de19... açrufb
   name: Emergir
   email: "emergir.co@gmail.com"
   facebook: emergir.co  # eg. daattali
@@ -141,8 +145,6 @@ footer-links-active:
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
-=======
->>>>>>> daattali/master
   name: Some Person
 
 # Select your active Social Network Links.
@@ -168,9 +170,6 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
-<<<<<<< HEAD
->>>>>>> daattali/master
-=======
 >>>>>>> daattali/master
 =======
 >>>>>>> parent of a76e252... updates
