@@ -18,7 +18,7 @@ Para tanto, o Emergir foca suas energias na **produção de conteúdo** - sempre
 
 ---
 
-#### Temática
+# Temática
 
 O conteúdo produzido pelo portal cobre uma ampla gama de tópicos. Algo natural, dado o aspecto interdisciplinar que caracteriza a complexidade. Porém, em ordem decrescente de abstração, estes são os temas principais que conectam este trabalho:   
 
@@ -36,7 +36,7 @@ Atualmente, o movimento de decentralização é um dos melhores exemplos de abor
 
 ---
 
-#### Formato
+# Formato
 
 Atualmente, grande parte do pensamento e experimentação complexa está sendo feitos em Inglês, o que representa uma barreira natural para a sua disseminação. E de maneira a superar esta barreira para além de traduções textuais, o Emergir faz uso dos seguintes formatos:
 
@@ -54,7 +54,7 @@ O portal também serve como vitrine para projetos relevantes à exploração do 
 
 ---
 
-#### Contato
+# Contato
 
 Uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as portas de colaboração estão sempre abertas aos leitores do portal. Pensou em alguma maneira de se envolver? Quer bater um papo? Dê um alô por <a href="mailto:emergir.co@gmail.com?subject=Oi do Emergir">aqui</a> e vamos conversar. O Emergir está aberto (mas não limitado) a:
   * Sugestões de temas;
@@ -65,7 +65,7 @@ Uma vez que a aposta é no poder dos movimentos ascendentes (bottom-up), as port
 
 ---
 
-#### Doações
+# Doações
 
 Contribuições financerias são extremamente bem-vindas, especialmente por conta do caráter não-lucrativo do portal. E apesar de não serem os únicos, estes são os canais preferidos:
 
@@ -75,13 +75,15 @@ Contribuições financerias são extremamente bem-vindas, especialmente por cont
 
 ---
 
-#### Créditos
+# Créditos
 
 - Logo
 
 Logo "open source" criado com orgulho no site [LogoMakr.com](logomakr.com).
 
 ---
+
+# Por fim...
 
 É assim que esperamos fazer emergir novas maneiras de se pensar. Que, principalmente, sejam adaptáves à realidade do século XXI e que nos permita viver de forma harmoniosa com nós mesmos, os outros, e o ambiente. Para saber mais, leia [Por que Emergir?](https://emergir.github.io/2017-10-16-Por-que-Emergir/)
 

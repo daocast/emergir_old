@@ -148,7 +148,7 @@ Também não é difícil de imaginar como tais iniciativas poderiam conquistar s
 
 Os planos de Joe para o campo de Desing Cultural, para o CDI e para os CDLs são de longo prazo. Afinal, as mudanças que estas iniciativas pretendem catalisar são, por si próprias, de longo prazo. O planejamento abaixo demonstra alguns dos marcos importantes nessa jornada:
 
-“[Planejamento](/img/postagens/design_cultural/planejamento.jpg)
+![Planejamento](/img/postagens/design_cultural/planejamento.jpg)
 
 Com a criação dos primeiros CDLs nos próximos anos, é esperado que projetos de demonstração sejam criados ao redor do mundo durante um período de 10 anos. Após isso, e esperando o sucesso de tais projetos, prevê-se uma explosão na divulgação de melhores práticas, resultando em um momento em que todas instituições e práticas humanas são baseadas em princípios de biomimética.
 
@@ -169,6 +169,9 @@ E a exemplo do que foi discutido no início deste texto sobre os efeitos de retr
 E se tem uma coisa que a Era Antropoceno nos diz é que nós somos os responsáveis por estarmos na bagunça em que estamos e apenas nós temos a capacidade de resolver esta situação. No que diz respeito à opinião do Emergir, é possível colocar a casa em ordem (partimos sempre de uma perspectiva otimista). Contudo, isto requer esforços realmente inovadores e [emergentes](http://emergir.co/2017-10-16-Por-que-Emergir/), que estejam na fronteira entre o possível e o impossível. Esforços como o campo de Design Cultural.
 
 > ”I am going to make a bold claim now—that cultural evolution is THE MOST IMPORTANT body of science for dealing with the global crises arising from this unprecedented time in human history. The study of social behavior, emergent complexity in human systems, how political and economic systems change, the roles of language and technology for shaping human experience, what makes us uniquely human, how landscapes and ecosystems co-evolve across various spans of space and time, and so forth. These are the topics that matter most in the midst of an unprecedented planetary crisis unlike anything our species has seen before.”[^14]
+
+Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
+
 
 # Referências
 
