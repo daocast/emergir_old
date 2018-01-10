@@ -57,28 +57,15 @@ footer-link-col: "#404040"
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
 # page-img: "/img/bgimage.png"
->>>>>>> daattali/master
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of a76e252... updates
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of 556de19... açrufb
+
+  name: Some Person
+
   name: Emergir
   email: "emergir.co@gmail.com"
   facebook: emergir.co  # eg. daattali
@@ -118,10 +105,6 @@ footer-links-active:
   steam: false
   twitch: false
   yelp: false
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-  name: Some Person
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -146,11 +129,7 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
->>>>>>> daattali/master
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of a76e252... updates
+
 
 # Select which share links to show in posts
 share-links-active:
