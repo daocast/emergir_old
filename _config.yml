@@ -38,31 +38,7 @@ avatar: "/img/emergir.jpg"
 # then specify the following parameter
 #title-img: "/img/icone.jpg"
 
-# --- Background colour/image options --- #
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of a76e252... updates
-=======
->>>>>>> parent of 556de19... açrufb
-# By default, the navigation bar and footer have a light gray background, and the main page
-# has a white background. You can specify a different background colour or a background image
-# for the navigation bar, the main page, and the footer.
-# navbar-col: "orange"
-# navbar-img: "/img/backg.png"
-# footer-col: "blue"
-# footer-img: "/img/backgrd.jpg"
-# page-col: "#FF0000"
-# page-img: "/img/backgrd.jpg"
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
