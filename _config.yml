@@ -41,6 +41,7 @@ avatar: "/img/emergir.jpg"
 # --- Background colour/image options --- #
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 # By default, the navigation bar and footer have a light gray background, and the main page
 # has a white background. You can specify a different background colour or a background image
 # for the navigation bar, the main page, and the footer.
@@ -51,6 +52,8 @@ avatar: "/img/emergir.jpg"
 # page-col: "#FF0000"
 # page-img: "/img/backgrd.jpg"
 =======
+=======
+>>>>>>> daattali/master
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#F5F5F5"
@@ -76,6 +79,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
+<<<<<<< HEAD
 <<<<<<< HEAD
   name: Emergir
   email: "emergir.co@gmail.com"
@@ -117,6 +121,8 @@ footer-links-active:
   twitch: false
   yelp: false
 =======
+=======
+>>>>>>> daattali/master
   name: Some Person
 
 # Select your active Social Network Links.
@@ -142,6 +148,9 @@ social-network-links:
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
+<<<<<<< HEAD
+>>>>>>> daattali/master
+=======
 >>>>>>> daattali/master
 
 # Select which share links to show in posts
