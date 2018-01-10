@@ -43,6 +43,9 @@ avatar: "/img/emergir.jpg"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a76e252... updates
 =======
 >>>>>>> parent of a76e252... updates
 # By default, the navigation bar and footer have a light gray background, and the main page
@@ -54,6 +57,7 @@ avatar: "/img/emergir.jpg"
 # footer-img: "/img/backgrd.jpg"
 # page-col: "#FF0000"
 # page-img: "/img/backgrd.jpg"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -79,6 +83,8 @@ footer-link-col: "#404040"
 >>>>>>> daattali/master
 =======
 >>>>>>> parent of a76e252... updates
+=======
+>>>>>>> parent of a76e252... updates
 
 # --- Footer options --- #
 
@@ -88,6 +94,9 @@ author:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of a76e252... updates
 =======
 >>>>>>> parent of a76e252... updates
   name: Emergir
@@ -130,6 +139,7 @@ footer-links-active:
   twitch: false
   yelp: false
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> daattali/master
@@ -162,6 +172,8 @@ social-network-links:
 >>>>>>> daattali/master
 =======
 >>>>>>> daattali/master
+=======
+>>>>>>> parent of a76e252... updates
 =======
 >>>>>>> parent of a76e252... updates
 
