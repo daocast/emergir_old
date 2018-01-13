@@ -176,6 +176,13 @@ E se tem uma coisa que a Era Antropoceno nos diz é que nós somos os responsáv
 
 Avante, [em rede](https://www.ted.com/talks/manuel_lima_a_visual_history_of_human_knowledge/transcript#t-746640)!
 
+___
+
+# O Instituto de Design Cultural (CDI) foi aprovado
+
+Na manhã do dia 12 de Janeiro de 2018, o Instituto de Design Cultural teve sua incubação dentro Oregon Research Institute aprovada por um comitê de avaliação da universidade. A partir de agora o campo de Design Cultural conta com uma estrutura fiscal para a sua criação! Agora Joe inicia as atividades mais práticas deste esforço nobre e necessário. Mais notícias em breve.
+
+![Sucesso](/img/postagens/design_cultural/sucesso.png)
 
 # Referências
 
