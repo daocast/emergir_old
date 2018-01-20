@@ -42,21 +42,21 @@ avatar: "/img/emergir.jpg"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#008080"
-navbar-text-col: "#f5f5f5"
-navbar-children-col: "#F5F5F5"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#FFFFFF"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#008080"
-footer-text-col: "#f5f5f5"
-footer-link-col: "#f5f5f5"
+footer-text-col: "#FFFFFF"
+footer-link-col: "#FFFFFF"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
 navbar-img: "/img/padroes/hexellence.png"
 footer-img: "/img/padroes/hexellence.png"
-#page-img: "/img/padroes/hexellence.png"
+page-img: "/img/padroes/hexellence.png"
 
 # --- Footer options --- #
 
