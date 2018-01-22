@@ -54,8 +54,8 @@ footer-link-col: "#008080"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/padroes/Gospers_glider_gun.gif"
-footer-img: "/img/padroes/Gospers_glider_gun.gif"
+navbar-img: "/img/padroes/maze-white.png"
+footer-img: "/img/padroes/maze-white.png"
 
 # --- Footer options --- #
 
